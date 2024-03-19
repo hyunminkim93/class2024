@@ -1,4 +1,7 @@
 # 오늘의 수업
+[메인 페이지](https://hyunminkim93.github.io/class2024/)   
+
+[자바스크립트](https://hyunminkim93.github.io/class2024/javascript/index.html)   
 
 자기소개 영타. 500타
 9시 반/
