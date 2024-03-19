@@ -2,11 +2,8 @@
 [메인 페이지](https://hyunminkim93.github.io/class2024/)   
 
 [자바스크립트](https://hyunminkim93.github.io/class2024/javascript/index.html)   
-
-자기소개 영타. 500타
-9시 반/
-정보처리/웹디자인기능사
-
+   
+   
 # vscode 확장 프로그램   
 Live server : 웹페이지 미리보기   
 Material Icon : 아이콘 설정   
