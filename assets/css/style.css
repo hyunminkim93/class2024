@@ -354,6 +354,8 @@ body {
     .layer__inner {
         .layer {
             .layer__conts {
+                background-color: #223167a8;
+
                 .picture {
                     ul {
                         li {
