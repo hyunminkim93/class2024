@@ -4,6 +4,8 @@
 [자바스크립트](https://hyunminkim93.github.io/class2024/javascript/index.html)  
 
 [MySQL](https://hyunminkim93.github.io/class2024/mysql/index.html)  
+
+[Quiz](https://hyunminkim93.github.io/class2024/quiz/index.html)
    
    
 # vscode 확장 프로그램   
