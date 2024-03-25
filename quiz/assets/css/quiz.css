@@ -200,7 +200,7 @@ body::after {
 .quiz__main .input input {
     width: 100%;
     padding: 20px;
-    border: 1px solid #e0a0dc;
+    border: 1px solid #15eeca;
     border-radius: 3px;
     font-size: 16px;
     color: #666;
@@ -209,9 +209,9 @@ body::after {
 }
 
 .quiz__main .answer {
-    border: 1px solid #dd83d5;
+    border: 1px solid #15eeca;
     padding: 20px;
-    background-color: #d38acd;
+    background-color: #15eeca;
     border-radius: 3px;
     font-size: 16px;
     color: #666;
@@ -225,7 +225,7 @@ body::after {
 
 
 .quiz__main .desc {
-    border: 1px solid #dab4d7;
+    border: 1px solid #15eeca;
     padding: 20px;
     border-radius: 3px;
     font-size: 16px;
@@ -240,7 +240,7 @@ body::after {
 }
 
 .quiz__footer .confirm {
-    background-color: #cd5cc3;
+    background-color: #32c7ae;
     color: #fff;
     width: 100%;
     padding: 20px;
@@ -253,7 +253,7 @@ body::after {
 
 .quiz__footer .confirm:hover {
     background-color: transparent;
-    border: 1px dashed #cd5cc3;
-    color: #cd5cc3;
+    border: 1px dashed #15eeca;
+    color: #15eeca;
     cursor: pointer;
 }
