@@ -10,7 +10,7 @@
 [퀴즈01](https://hyunminkim93.github.io/class2024/quiz/quiz01.html)   
 - 변수   
 - 선택자(querySelector)   
-- 메서드(innerText()), classList, addEventListener   
+- 메서드(innerText(), classList, addEventListener, if문)   
    
    
 ### vscode 확장 프로그램   
