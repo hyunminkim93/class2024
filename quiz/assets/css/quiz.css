@@ -129,7 +129,7 @@ body {
     position: relative;
     background-image: url(../img/bg01.jpg);
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
 
 }
 
@@ -170,10 +170,11 @@ body::after {
 }
 
 .quiz__wrap .quiz {
-    max-width: 500px;
+    width: 500px;
     background-color: #fff;
     padding: 40px 30px;
     border-radius: 10px;
+    margin: 10px;
 }
 
 .quiz__header {
