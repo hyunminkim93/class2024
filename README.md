@@ -11,6 +11,12 @@
 - 변수   
 - 선택자(querySelector)   
 - 메서드(innerText(), classList, addEventListener, if문)   
+
+[퀴즈02](https://hyunminkim93.github.io/class2024/quiz/quiz02.html)   
+- 배열, 객체   
+- 선택자 (querySelectorAll())   
+- (for(), forEach())   
+- 메서드(innerHTML(, classList.add, addEventListener, if문))   
    
    
 ### vscode 확장 프로그램   
