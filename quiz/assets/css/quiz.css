@@ -311,11 +311,31 @@ body::after {
     transition: bacground-color 0.3s;
 }
 
+
 .quiz__footer .confirm:hover {
     background-color: transparent;
     border: 1px dashed #1e8be4;
     color: #1e8be4;
     cursor: pointer;
+}
+
+.quiz__footer .next:hover {
+    background-color: transparent;
+    border: 1px dashed #1e8be4;
+    color: #1e8be4;
+    cursor: pointer;
+}
+
+.quiz__footer .next {
+    background-color: #1e8be4;
+    color: #fff;
+    width: 100%;
+    padding: 20px;
+    border: 0;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 1px solid transparent;
+    transition: bacground-color 0.3s;
 }
 
 /* good, bad */
