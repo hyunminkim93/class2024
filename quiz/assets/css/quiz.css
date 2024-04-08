@@ -126,6 +126,7 @@ body {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     position: relative;
     background-image: url(../img/bg01.jpg);
     width: 100%;
@@ -271,7 +272,7 @@ body::after {
 .quiz__main .answer {
     border: 1px solid #1e8be4;
     padding: 20px;
-    background-color: #1e8be4b0;
+    background-color: #52b0fdb0;
     border-radius: 3px;
     font-size: 16px;
     color: #666;
@@ -383,4 +384,25 @@ body::after {
     border-radius: 30px;
     transform: rotate(-45deg);
     z-index: 100;
+}
+
+.quiz__check {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 100px;
+    height: 100px;
+    line-height: 94px;
+    text-align: center;
+    background-color: #328ed8;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 50%;
+    border: 1px solid #1e8be4;
+}
+
+.quiz__check:hover {
+    border: 10px dashed #1e8be4;
+    background-color: #e6e0ff;
+    color: #328ed8;
 }

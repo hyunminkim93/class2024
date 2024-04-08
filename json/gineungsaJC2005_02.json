@@ -82,7 +82,6 @@
         "incorrect_answers": [
             "<img style='width:130px' src='https://github.com/dkseho9121/web2023/blob/main/javascript/quiz/noname01.jpg?raw=true'>",
             "<img style='width:130px' src='https://github.com/dkseho9121/web2023/blob/main/javascript/quiz/noname021.jpg?raw=true'>",
-            "<img style='width:130px' src='https://github.com/dkseho9121/web2023/blob/main/javascript/quiz/noname012.jpg?raw=true'>",
             "<img style='width:130px' src='https://github.com/dkseho9121/web2023/blob/main/javascript/quiz/noname014.jpg?raw=true'>"
         ],
         "correct_answer": "3",
