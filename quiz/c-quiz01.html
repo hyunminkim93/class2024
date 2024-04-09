@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>퀴즈 미션</title>
+</head>
+
+<body>
+    <main id="main">
+        <div class="quiz__wrap"></div>
+    </main>
+    <script>
+        const quizWrap = document.querySelector(".quiz__wrap");
+        const quizInfo = [];
+        const fetchQuiz = function () {
+            fetch('https://webstoryboy.github.io/webstoryboy/w_json/gineungsaShort.json')
+                .then(res => res.json())
+                .then(items => {
+                    // console.log(items);
+                    quizInfo = items.map(item => {
+                        const formattedQuiz = {
+                            date: "2005년 2회",
+                            type: item.subject,
+                            question: item.question,
+                            desc: item.desc,
+                            answer: item.correct_answer
+                        }
+                        // 결과값 출력
+                        return formattedQuiz;
+                    });
+                    // console.log(quizInfo);
+
+                    // 문제 출력
+                    updateQuiz();
+                })
+        }
+
+    </script>
+</body>
+
+</html>
