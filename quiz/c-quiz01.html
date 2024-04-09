@@ -4,18 +4,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>퀴즈 미션</title>
+    <title>퀴즈 06</title>
+    <link rel="stylesheet" href="assets/css/quiz.css">
 </head>
 
 <body>
+    <header id="header">
+        <h1>
+            <a href="index.html">Quiz</a>
+        </h1>
+        <nav>
+            <ul>
+                <li><a href="quiz01.html">1</a></li>
+                <li><a href="quiz02.html">2</a></li>
+                <li><a href="quiz03.html">3</a></li>
+                <li><a href="quiz04.html">4</a></li>
+                <li><a href="quiz05.html">5</a></li>
+                <li class="active"><a href="quiz06.html">6</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- //header -->
+
     <main id="main">
         <div class="quiz__wrap"></div>
+        <div class="quiz__check">정답 확인</div>
     </main>
+    <!-- //main -->
+
+    <footer id="footer">
+        <a href="mailto:rlagusals234@gmail.com">rlagusals234@gmail.com</a>
+    </footer>
+    <!-- //footer -->
+
     <script>
+        // 선택자
         const quizWrap = document.querySelector(".quiz__wrap");
-        const quizInfo = [];
-        const fetchQuiz = function () {
-            fetch('https://webstoryboy.github.io/webstoryboy/w_json/gineungsaShort.json')
+        const quizCheck = document.querySelector(".quiz__check");
+
+        // 문제 정보
+        let quizInfo = [];
+
+        // 문제 가져오기
+        const fetchQuiz = () => {
+            fetch("https://webstoryboy.github.io/webstoryboy/w_json/gineungsaShort.json")
                 .then(res => res.json())
                 .then(items => {
                     // console.log(items);
@@ -30,12 +62,69 @@
                         // 결과값 출력
                         return formattedQuiz;
                     });
-                    // console.log(quizInfo);
-
-                    // 문제 출력
-                    updateQuiz();
+                    console.log(quizInfo);
                 })
         }
+
+        // 문제 출력
+        const updateQuiz = () => {
+            const quizArray = [];
+
+            quizInfo.forEach((quiz, index) => {
+                quizArray.push(`
+                <div class="quiz">
+                <div class="quiz__header">${quiz.date} ${quiz.type}</div>
+                <div class="quiz__main">
+                    <div class="question">${index + 1}.${quiz.question}</div>
+                    <div class="input">
+                        <input type="text" placeholder="정답을 입력해주세요!">
+                    </div>
+                    <div class="answer none">${quiz.answer}</div>
+                    <div class="desc none">${quiz.desc}</div>
+                </div>
+            </div>
+                `)
+            })
+
+            quizWrap.innerHTML = quizArray.join("");
+        }
+
+        // 정답 확인
+        quizCheck.addEventListener("click", () => {
+            const quizElements = document.querySelectorAll(".quiz");
+            let correctCount = 0; // 맞은 문제의 개수를 세는 변수
+
+            quizElements.forEach((quizElement, index) => {
+                const quizChecked = quizElement.querySelector(`input[name="choice-${index}"]:checked`); // 체크한 정답
+                const quizAnswer = quizElement.querySelector(".answer");
+                const quizDesc = quizElement.querySelector(".desc");
+
+                if (quizChecked) {
+                    const userAnswer = quizChecked.value; // 사용자 정답                  
+                    const correctAnswer = quizAnswer.textContent; // 정답지 정답
+
+                    if (userAnswer == correctAnswer) {
+                        console.log("정답")
+                        quizElement.classList.add("good");
+                        quizDesc.classList.remove("none");
+                        correctCount++;    // 맞은 문제 개수 증가
+                    } else {
+                        console.log("오답")
+                        quizElement.classList.add("bad");
+                        quizAnswer.classList.remove("none");
+                        quizDesc.classList.remove("none")
+                    }
+                }
+            });
+            // 모든 문제를 확인한 후 점수 계산 및 표시
+            const totalScore = ((correctCount / quizElements.length) * 100).toFixed(2); // 점수 계산
+            alert(`당신의 점수는${totalScore}점입니다. 맞은 문제수: ${correctCount}/${quizElements.length}`);
+        });
+
+        // 페이지가 로드된 후 실행
+        document.addEventListener("DOMContentLoaded", () => {
+            fetchQuiz();
+        })
 
     </script>
 </body>
