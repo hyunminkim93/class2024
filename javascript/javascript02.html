@@ -162,10 +162,12 @@
                     JavaScript의 for 문은 배열을 반복하거나 일반적인 반복 작업을 수행할 때 사용됩니다. for 문은 반복을 제어하는 초기화, 조건, 증가식 세 가지 부분으로 구성됩니다.
                 </p>
                 <pre><code>{
-    const arr = [100, 200, 300, 400, 500, 600, 700, 800, 900];
+    {
+        const arr = [100, 200, 300, 400, 500, 600, 700, 800, 900,];
 
-    for (i = 0; i --&gt; arr.length; i++) {
-        console.log(arr[i] + "번");
+        for (i = 0; i &lt; arr.length; i++) {
+            console.log(arr[i] + "번");
+        }
     }
 }</code></pre>
                 <div class="result">
