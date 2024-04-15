@@ -27,7 +27,7 @@
         // 문제 정보
         const fetchQuiz = async () => {
             try {
-                const response = await fetch("https://webstoryboy.github.io/webstoryboy/w_json/gineungsaShort.json");
+                const response = await fetch("https://hyunminkim93.github.io/class2024/json/hyunminkim93.json");
                 const items = await response.json();
                 // Process quiz items
                 quizInfo = items.map(item => {
@@ -42,7 +42,7 @@
                     }
                     return formattedQuiz;
                 });
-                quizInfo.splice(99, 69)
+                quizInfo.splice(100, 70)
                 console.log(quizInfo);
                 updateQuiz(currentIndex);
             } catch (error) {
