@@ -74,8 +74,6 @@ li {
     display: none;
 }
 
-#header .nav>ul>li>ul>li {}
-
 #header .nav>ul>li>ul>li>a {
     width: 100%;
     padding: 10px 40px;
@@ -100,8 +98,6 @@ li {
 .slider-wrap .slider {
     position: relative;
 }
-
-
 
 .slider-wrap .slider img {
     vertical-align: top;
@@ -133,8 +129,6 @@ li {
     font-size: 24px;
     margin-bottom: 10px;
 }
-
-#main .notice ul {}
 
 #main .notice li {
     display: flex;
