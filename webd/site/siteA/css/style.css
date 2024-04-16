@@ -101,6 +101,7 @@ li {
 
 .slider-wrap .slider img {
     vertical-align: top;
+    /* 이미지 여백 없애기 */
 }
 
 .slider-wrap .slider .text {
