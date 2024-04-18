@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mouse Effect</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Antic+Slab&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            cursor: none;
+        }
+
+        .main__inner {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .main__inner p {
+            color: #5d30D5;
+            padding: 10vw;
+            font-size: 2.4vmax;
+            text-align: center;
+            font-family: "Antic Slab";
+
+        }
+
+        .main__inner p em,
+        .main__inner p span,
+        .main__inner p i,
+        .main__inner p strong {
+            font-style: normal;
+            font-weight: 700;
+        }
+
+
+        .main__info {
+            width: 100%;
+            font-family: "Antic Slab";
+            color: #5d30D5;
+            position: absolute;
+            left: 16px;
+            top: 60px;
+            font-size: 14px;
+        }
+
+        .main__info ul {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .main__info ul li {
+            width: 25%;
+            text-transform: uppercase;
+            font-family: "Antic Slab";
+            color: #5d30D5;
+            font-weight: 200;
+        }
+
+        .cursor {
+            width: 100px;
+            height: 100px;
+            background-color: rgba(196, 82, 109, 0.3);
+            border: 1px solid rgba(196, 82, 109, 0.3);
+            backdrop-filter: blur(5px);
+            position: absolute;
+            left: 10px;
+            top: 10px;
+            border-radius: 50%;
+            z-index: 10000;
+            user-select: none;
+            pointer-events: none;
+            transition:
+                transform 0.3s,
+                background-color 0.3s,
+                border 0.3s,
+                border-radius 0.3s;
+        }
+
+        .cursor.span1 {
+            background-color: rgba(244, 94, 94, 0.4);
+            border: 1px solid #d75959a6;
+        }
+
+        .cursor.span1::before {
+            background-color: #502be3;
+        }
+
+        .cursor.span1::after {
+            background-color: #502be3;
+        }
+
+        .cursor::before {
+            content: '';
+            width: 20px;
+            height: 1px;
+            background-color: #502be3;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .cursor::after {
+            content: '';
+            width: 1px;
+            height: 20px;
+            background-color: #502be3;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .cursor.span2 {
+            background-color: rgba(220, 59, 59, 0.4);
+            border: 1px solid #d36868;
+            transform: scale(0.5);
+        }
+
+        .cursor.span2::before {
+            background-color: #502be3;
+        }
+
+        .cursor.span2::after {
+            background-color: #502be3;
+        }
+
+        .cursor.span3 {
+            background-color: rgba(220, 59, 59, 0.4);
+            border: 1px solid #d36868;
+            border-radius: 30%;
+            transform: rotate(720deg) scale(2);
+        }
+
+        .cursor.span3::before {
+            background-color: #502be3;
+        }
+
+        .cursor.span3::after {
+            background-color: #502be3;
+        }
+
+        .cursor.span4 {
+            background-color: rgba(220, 59, 59, 0.4);
+            border: 1px solid #d36868;
+
+            transform: rotate(1080deg) scale(2);
+
+        }
+
+        .cursor.span4::before {
+            background-color: #5c4aa4;
+        }
+
+        .cursor.span4::after {
+            background-color: #5c4aa4;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="wrap">
+        <header id="header">
+            <div class="header__inner">
+                <h1>Mouse Effect <em>01</em></h1>
+            </div>
+        </header>
+        <!-- //header -->
+
+        <main id="main">
+            <div class="cursor">
+
+            </div>
+            <div class="main__inner">
+                <p>
+                    JavaScript is a versatile <span>programming</span> language that powers the dynamic behavior on most
+                    websites. It
+                    was originally developed by Netscape as a means to add interactive elements to browsers, and has
+                    since become a <span>fundamental</span> component of web development. <span>JavaScript</span>
+                    enables
+                    developers
+                    to implement
+                    complex features, from displaying timely content updates to <span>interactive</span> maps and
+                    animated 2D/3D
+                    graphics.
+                </p>
+            </div>
+            <div class="main__info">
+                <ul>
+                    <li>clientX <span class="clientX">0</span></li>
+                    <li>offsetX <span class="offsetX">0</span></li>
+                    <li>pageX <span class="pageX">0</span></li>
+                    <li>screenX <span class="screenX">0</span></li>
+                </ul>
+            </div>
+        </main>
+        <!-- //main -->
+
+        <footer id="footer">
+            <div class="footer__inner">
+                <ul>
+                    <li class="active"><a href="mouse01.html">01</a></li>
+                    <li><a href="mouse02.html">02</a></li>
+                    <li><a href="mouse03.html">03</a></li>
+                    <li><a href="mouse04.html">04</a></li>
+                </ul>
+            </div>
+        </footer>
+        <!-- //footer -->
+    </div>
+
+    <script>
+        window.addEventListener("mousemove", function (event) {
+            console.log(event);
+            // clientX 에 숫자 100을 넣어보세요!
+            document.querySelector(".clientX").innerHTML = event.clientX;
+            // offsetX 에 숫자 200을 넣어보세요!
+            document.querySelector(".offsetX").innerHTML = event.offsetX;
+            // pageX 에 숫자 300을 넣어보세요!
+            document.querySelector(".pageX").innerHTML = event.pageX;
+            // screenX 에 숫자 400을 넣어보세요!
+            document.querySelector(".screenX").innerHTML = event.screenX;
+
+        });
+
+        // mouse
+        const cursor = document.querySelector(".cursor");
+
+        window.addEventListener("mousemove", function (e) {
+            cursor.style.left = e.clientX - 50 + "px";
+            cursor.style.top = e.clientY - 50 + "px";
+        });
+
+        // document.querySelector(".main__inner span:nth-child(1)").addEventListener("mouseover", function () {
+        //     cursor.classList.add("span1")
+        // });
+        // document.querySelector(".main__inner span:nth-child(1)").addEventListener("mouseout", function () {
+        //     cursor.classList.remove("span1")
+        // });
+
+        // document.querySelector(".main__inner span:nth-child(2)").addEventListener("mouseover", function () {
+        //     cursor.classList.add("span2")
+        // });
+        // document.querySelector(".main__inner span:nth-child(2)").addEventListener("mouseout", function () {
+        //     cursor.classList.remove("span2")
+        // });
+
+        // document.querySelector(".main__inner span:nth-child(3)").addEventListener("mouseover", function () {
+        //     cursor.classList.add("span3")
+        // });
+        // document.querySelector(".main__inner span:nth-child(3)").addEventListener("mouseout", function () {
+        //     cursor.classList.remove("span3")
+        // });
+
+        // document.querySelector(".main__inner span:nth-child(4)").addEventListener("mouseover", function () {
+        //     cursor.classList.add("span4")
+        // });
+        // document.querySelector(".main__inner span:nth-child(4)").addEventListener("mouseout", function () {
+        //     cursor.classList.remove("span4")
+        // });
+        // for 문
+        const arr = document.querySelectorAll(".main__inner span")
+        // for (let i = 1; i <= arr.length; i++) {
+        //     document.querySelector(".main__inner span:nth-child(" + i + ")").addEventListener("mouseover", function () {
+        //         cursor.classList.add("span" + i)
+        //     });
+        //     document.querySelector(".main__inner span:nth-child(" + i + ")").addEventListener("mouseout", function () {
+        //         cursor.classList.remove("span" + i)
+        //     });
+        // }
+        // forEach
+        {
+
+        }
+    </script>
+</body>
+
+</html>

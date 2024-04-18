@@ -33,19 +33,23 @@
         <div class="quiz__play none">
             <span class="number">1/100</span>
             <div class="question"></div>
+            .quiz
+            <div class="desc"></div>
             <div class="answer">
                 <input type="text" id="userAnswer" placeholder="정답을 입력하세요!">
             </div>
             <div class="confirm">
-                <button id="prevButton">이전문제</button>
                 <button id="checkButton">정답확인하기</button>
                 <button id="nextButton">다음문제</button>
             </div>
+            <div class="totalscore">총 점수: <span id="totalScore">0</span></div>
+            <div class="correctcount">정답 수: <span id="correctCount">0</span></div>
         </div>
         <div class="quiz__finish none"> </div>
     </div>
     <div class="quiz__bg">
         <svg id="canvas"></svg>
+    </div>
     </div>
     <script>
         let quizData; // 변수 선언
@@ -55,13 +59,13 @@
             .then(response => response.json())
             .then(data => {
                 quizData = data; // 가져온 데이터를 변수에 저장
+                console.log(quizData)
             })
             .catch(error => console.error('Error fetching quiz data:', error));
 
         // 나머지 JavaScript 코드는 그대로 유지합니다.
         const startButton = document.getElementById("startButton");
         const nextButton = document.getElementById("nextButton");
-        const prevButton = document.getElementById("prevButton");
         const checkButton = document.getElementById("checkButton");
         const userAnswerInput = document.getElementById("userAnswer");
         const quizPlaySection = document.querySelector(".quiz__play");
@@ -69,7 +73,6 @@
 
         startButton.addEventListener("click", startQuiz);
         nextButton.addEventListener("click", nextQuestion);
-        prevButton.addEventListener("click", prevQuestion);
         checkButton.addEventListener("click", checkAnswer);
 
         let currentQuestionIndex = 0;
@@ -86,6 +89,8 @@
             const currentQuestion = quizData[currentQuestionIndex];
             document.querySelector(".question").textContent = currentQuestion.question;
             document.querySelector(".number").textContent = `${currentQuestionIndex + 1}/${quizData.length}`;
+            document.querySelector(".desc").textContent = currentQuestion.question_desc;
+            nextButton.classList.add("none");
         }
 
         function nextQuestion() {
@@ -93,15 +98,6 @@
             if (currentQuestionIndex >= quizData.length) {
                 finishQuiz();
             } else {
-                showQuestion();
-                userAnswerInput.value = "";
-                checkButton.disabled = false;
-            }
-        }
-
-        function prevQuestion() {
-            if (currentQuestionIndex > 0) {
-                currentQuestionIndex--;
                 showQuestion();
                 userAnswerInput.value = "";
                 checkButton.disabled = false;
@@ -117,21 +113,36 @@
         }
 
         function checkAnswer() {
+            console.log('object')
             const userAnswer = userAnswerInput.value.trim();
-            const correctAnswer = quizData[currentQuestionIndex].answer;
-            if (userAnswer.toLowerCase() === correctAnswer.toLowerCase()) {
+            const correctAnswer = quizData[currentQuestionIndex].correct_answer;
+            console.log("userAnswer" + userAnswer)
+            console.log("correctAnswer" + correctAnswer)
+            if (userAnswer === correctAnswer) {
+                alert("정답")
                 totalScore += 1;
                 correctCount += 1;
+                checkButton.classList.add("correct");
+                updateScore();
+                if (currentQuestionIndex < quizData.length - 1) {
+                    nextButton.classList.remove("none")
+                } else {
+                    setTimeout(finishQuiz, 0);
+                }
+            } else {
+                checkButton.classList.add("incorrect");
+                if (currentQuestionIndex < quizData.length - 1) {
+                    alert("땡!")
+                    nextButton.classList.remove("none")
+                } else {
+                    finishQuiz()
+                }
             }
-            userAnswerInput.value = "";
-            checkButton.disabled = true;
-            updateScore();
-            nextQuestion(); // 정답 확인 후 다음 문제로 자동 이동
         }
 
         function updateScore() {
-            document.getElementById("totalScore").textContent = totalScore;
-            document.getElementById("correctCount").textContent = correctCount;
+            document.getElementById("totalScore").innerHTML = totalScore;
+            document.getElementById("correctCount").innerHTML = correctCount;
         }
 
         function finishQuiz() {
