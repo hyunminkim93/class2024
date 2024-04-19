@@ -149,7 +149,7 @@
         .cursor.span4 {
             background-color: rgba(220, 59, 59, 0.4);
             border: 1px solid #d36868;
-
+            border-radius: 50px 40px 20px 40px;
             transform: rotate(1080deg) scale(2);
 
         }
@@ -217,7 +217,7 @@
 
     <script>
         window.addEventListener("mousemove", function (event) {
-            console.log(event);
+            // console.log(event);
             // clientX 에 숫자 100을 넣어보세요!
             document.querySelector(".clientX").innerHTML = event.clientX;
             // offsetX 에 숫자 200을 넣어보세요!
@@ -265,7 +265,7 @@
         //     cursor.classList.remove("span4")
         // });
         // for 문
-        const arr = document.querySelectorAll(".main__inner span")
+        // const arr = document.querySelectorAll(".main__inner span")
         // for (let i = 1; i <= arr.length; i++) {
         //     document.querySelector(".main__inner span:nth-child(" + i + ")").addEventListener("mouseover", function () {
         //         cursor.classList.add("span" + i)
@@ -275,9 +275,16 @@
         //     });
         // }
         // forEach
-        {
+        const arr1 = document.querySelectorAll(".main__inner span");
 
-        }
+        arr1.forEach((element, index) => {
+            element.addEventListener("mouseover", function () {
+                cursor.classList.add("span" + (index + 1));
+            });
+            element.addEventListener("mouseout", function () {
+                cursor.classList.remove("span" + (index + 1));
+            });
+        });
     </script>
 </body>
 
