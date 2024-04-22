@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mouse Effect</title>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/mouse.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -99,9 +99,7 @@
         <!-- //header -->
 
         <main id="main">
-            <div class="cursor">
-
-            </div>
+            <div class="cursor"></div>
             <div class="main__inner">
                 <p>JavaScript</p>
             </div>
@@ -118,12 +116,19 @@
 
         <footer id="footer">
             <div class="footer__inner">
-                <ul>
-                    <li><a href="mouse01.html">01</a></li>
-                    <li class="active"><a href="mouse02.html">02</a></li>
-                    <li><a href="mouse03.html">03</a></li>
-                    <li><a href="mouse04.html">04</a></li>
-                </ul>
+                <nav>
+                    <ul>
+                        <li><a href="mouse01.html">01</a></li>
+                        <li class="active"><a href="mouse02.html">02</a></li>
+                        <li><a href="mouse03.html">03</a></li>
+                        <li><a href="mouse04.html">04</a></li>
+                    </ul>
+                </nav>
+                <div class="link">
+                    <ul>
+                        <li><a href="parallax01.html">parallax</a></li>
+                    </ul>
+                </div>
             </div>
         </footer>
         <!-- //footer -->
@@ -148,6 +153,38 @@
             gsap.to(".cursor", { duration: 0.6, left: e.clientX - 50, top: e.clientY - 50 })
         });
 
+
+        document.addEventListener("DOMContentLoaded", function () {
+            const text = document.querySelector(".main__inner p");
+            const letters = text.textContent.split("");
+            text.textContent = "";
+
+            letters.forEach(letter => {
+                const span = document.createElement("span");
+                span.textContent = letter;
+                text.appendChild(span);
+
+                span.addEventListener("mouseover", function () {
+                    span.style.color = getRandomColor(); // getRandomColor 함수를 호출하여 랜덤 색상을 적용
+                });
+
+                span.addEventListener("mouseout", function () {
+                    span.style.color = ""; // 마우스 아웃 시에는 원래 색상으로 되돌립니다. 빈 문자열을 설정하면 CSS에 의해 결정됩니다.
+                });
+            });
+        });
+
+        // 랜덤 색상을 반환하는 함수
+        function getRandomColor() {
+            const letters = "0123456789ABCDEF"; // RGB 컬러코드를 나타내는 문자열
+            let color = "#"; // 컬러 코드의 시작 부분
+
+            for (let i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)]; // 랜덤한 문자 선택하여 컬러 코드에 추가
+            }
+
+            return color; // 랜덤 색상 반환
+        }
     </script>
 </body>
 
