@@ -19,6 +19,10 @@ body {
     background-color: #bfcabd;
 }
 
+.bg2 {
+    background-color: #dcb8b8;
+}
+
 /* header */
 #header {
     position: fixed;
@@ -62,4 +66,27 @@ body {
     background-position: right center;
     margin-bottom: 5px;
     display: inline-block;
+}
+
+/* footer__inner */
+
+.footer__inner nav {
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+    font-family: "Darker Grotesque";
+}
+
+.footer__inner nav ul {
+    display: flex;
+}
+
+.footer__inner nav li a {
+    margin-right: 5px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer__inner nav li.active a {
+    text-emphasis: circle;
 }
