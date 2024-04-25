@@ -304,13 +304,12 @@ li {
     width: 230px;
     height: 100px;
     background-color: #4b74b1;
+    text-align: center;
 }
 
-#footer .family h3 {
-    text-align: center;
+#footer .family select {
     margin-top: 40px;
-    color: #fff;
-
+    font-size: 20px;
 }
 
 /* modal */
