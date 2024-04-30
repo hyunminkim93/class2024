@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parallax03</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Darker+Grotesque:wght@300..900&family=Halant:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/parallax.css">
+    <style>
+        .parallax__item {
+            width: 100%;
+            height: 100vh;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+
+        }
+
+        #section2,
+        #section4,
+        #section6,
+        #section8 {
+            background-color: #8686865f;
+        }
+
+        #section1 {
+            background-image: url(https://images.unsplash.com/photo-1714108671525-a8f722f30632?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw2fHx8ZW58MHx8fHx8);
+        }
+
+        #section2 {
+            background-image: url(https://images.unsplash.com/photo-1714151676676-7471bc1a0794?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxOXx8fGVufDB8fHx8fA%3D%3D);
+        }
+
+        #section3 {
+            background-image: url(https://images.unsplash.com/photo-1714192711503-a64f88858b62?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzMnx8fGVufDB8fHx8fA%3D%3D);
+        }
+
+        #section4 {
+            background-image: url(https://images.unsplash.com/photo-1714287688144-b2406ffef8d4?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzOXx8fGVufDB8fHx8fA%3D%3D);
+        }
+
+        #section5 {
+            background-image: url(https://images.unsplash.com/photo-1713868779710-a3891cdef3a2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0Nnx8fGVufDB8fHx8fA%3D%3D);
+        }
+
+        #section6 {
+            background-image: url(https://images.unsplash.com/photo-1713792259829-c7883dd4519a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0OHx8fGVufDB8fHx8fA%3D%3D);
+        }
+
+        #section7 {
+            background-image: url(https://images.unsplash.com/photo-1713708613723-cbf297cdacf6?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1OHx8fGVufDB8fHx8fA%3D%3D);
+        }
+
+        #section8 {
+            background-image: url(https://images.unsplash.com/photo-1714234073569-50c68b5feb4f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw3M3x8fGVufDB8fHx8fA%3D%3D);
+        }
+
+        #section9 {
+            background-image: url(https://images.unsplash.com/photo-1713528197377-53e99d3b6b2a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4MXx8fGVufDB8fHx8fA%3D%3D);
+        }
+
+        .parallax__item_num {
+            position: absolute;
+            right: 20px;
+            bottom: 20px;
+            font-size: 30px;
+            line-height: 1;
+        }
+
+        .parallax__item_title {
+            font-size: 5vw;
+            font-family: "Darker Grotesque";
+        }
+    </style>
+</head>
+
+<body class="bg3">
+    <div id="wrap">
+        <header id="header">
+            <div class="header__inner">
+                <h1><a href="index.html">Parallax Effect 03</a></h1>
+                <p>GSAP scrollTrigger - 배경고정하기</p>
+
+                <div class="link">
+                    <ul>
+                        <li><a href="mouse01.html">mouse</a></li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <!-- //header -->
+
+        <main id="main">
+            <div class="main__inner">
+                <section id="section1" class="parallax__item">
+                    <span class="parallax__item__num">01</span>
+                    <div class="parallax__item__img"></div>
+                    <h2 class="parallax__item__title">section1</h2>
+                </section>
+                <!-- //section1 -->
+
+                <section id="section2" class="parallax__item">
+                    <span class="parallax__item__num">02</span>
+                    <div class="parallax__item__img"></div>
+                    <h2 class="parallax__item__title">section2</h2>
+                </section>
+                <!-- //section2 -->
+
+                <section id="section3" class="parallax__item">
+                    <span class="parallax__item__num">03</span>
+                    <div class="parallax__item__img"></div>
+                    <h2 class="parallax__item__title">section3</h2>
+                </section>
+                <!-- //section3 -->
+
+                <section id="section4" class="parallax__item">
+                    <span class="parallax__item__num">04</span>
+                    <div class="parallax__item__img"></div>
+                    <h2 class="parallax__item__title">section4</h2>
+                </section>
+                <!-- //section4 -->
+
+                <section id="section5" class="parallax__item">
+                    <span class="parallax__item__num">05</span>
+                    <div class="parallax__item__img"></div>
+                    <h2 class="parallax__item__title">section5</h2>
+                </section>
+                <!-- //section5 -->
+
+                <section id="section6" class="parallax__item">
+                    <span class="parallax__item__num">06</span>
+                    <div class="parallax__item__img"></div>
+                    <h2 class="parallax__item__title">section6</h2>
+                </section>
+                <!-- //section6-->
+
+                <section id="section7" class="parallax__item">
+                    <span class="parallax__item__num">07</span>
+                    <div class="parallax__item__img"></div>
+                    <h2 class="parallax__item__title">section7</h2>
+                </section>
+                <!-- //section7 -->
+
+                <section id="section8" class="parallax__item">
+                    <span class="parallax__item__num">08</span>
+                    <div class="parallax__item__img"></div>
+                    <h2 class="parallax__item__title">section8</h2>
+                </section>
+                <!-- //section8 -->
+
+                <section id="section9" class="parallax__item">
+                    <span class="parallax__item__num">09</span>
+                    <div class="parallax__item__img"></div>
+                    <h2 class="parallax__item__title">section9</h2>
+                </section>
+                <!-- //section9 -->
+            </div>
+        </main>
+        <!-- //main -->
+
+        <footer id="footer">
+            <div class="footer__inner">
+                <nav>
+                    <ul>
+                        <li><a href="parallax01.html">01</a></li>
+                        <li><a href="parallax02.html">02</a></li>
+                        <li class="active"><a href="parallax03.html">03</a></li>
+                        <li><a href="parallax04.html">04</a></li>
+                        <li><a href="parallax05.html">05</a></li>
+                        <li><a href="parallax06.html">06</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </footer>
+        <!-- //footer -->
+    </div>
+    <!-- //wrap -->
+
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollToPlugin.min.js"></script>
+    <script>
+        // const panel = document.querySelector("#section1");
+
+        // ScrollTrigger.create({
+        //     trigger: panel,
+        //     start: "top top",
+        //     pin: true,
+        //     pinSpacing: false
+        // });
+
+        // gsap.utils.toArray(".parallax__item").forEach((panel, index) => {
+        //     ScrollTrigger.create({
+        //         trigger: panel,
+        //         start: "top top",
+        //         pin: true,
+        //         pinSpacing: false
+        //     });
+        // });
+
+        // snap 
+        let panels = gsap.utils.toArray(".parallax__item");
+        let tops = panels.map(panel => ScrollTrigger.create({ trigger: panel, start: "top top" }));
+
+        panels.forEach((panel, i) => {
+            ScrollTrigger.create({
+                trigger: panel,
+                start: () => panel.offsetHeight < window.innerHeight ? "top top" : "bottom bottom",
+                pin: true,
+                pinSpacing: false
+            });
+        });
+
+        ScrollTrigger.create({
+            snap: {
+                snapTo: (progress, self) => {
+                    let panelStarts = tops.map(st => st.start),
+                        snapScroll = gsap.utils.snap(panelStarts, self.scroll());
+                    return gsap.utils.normalize(0, ScrollTrigger.maxScroll(window), snapScroll);
+                },
+                duration: 0.5
+            }
+        });
+    </script>
+</body>
+
+</html>

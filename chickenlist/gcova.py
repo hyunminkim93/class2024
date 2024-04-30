@@ -9,8 +9,8 @@ def get_menu_data(url, base_url):
     res = req.get(url, headers=headers)
     soup = bs(res.text, "lxml")
 
-    sub = soup.select(".sub_price")
-    menuimage = soup.select("td > img")
+    sub = soup.select("td.sub_price")
+    menuimage = soup.select("img")
     price = soup.select(".main_price > b")
 
     chart_data = []
