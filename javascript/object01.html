@@ -213,8 +213,7 @@ while ((match = pattern.exec(str)) !== null) {
         matches.push(match[0]);
 }
 console.log(matches);
-// Output: ["ain", "ain", "ain", "ain"]
-                                        
+// Output: ["ain", "ain", "ain", "ain"]                                       
 }</code></pre>
                         </div>
                         <!-- //sample04 -->
@@ -232,12 +231,11 @@ var newStr = str.replace(/ain/g, "ing");
 console.log(newStr);
 
 // Output: "The ring in Sping falls mingly in the pling"
-
 }</code></pre>
                         </div>
                         <!-- //sample05 -->
-                        <div id="sample05" class="sample">
-                                <h3>05.search()</h3>
+                        <div id="sample06" class="sample">
+                                <h3>06.search()</h3>
                                 <p class="notice">"문자열".search()</p>
                                 <ul>
                                         <li>search() 메서드는 정규 표현식과 일치하는 첫 번째 문자열의 인덱스를 반환합니다.
@@ -250,23 +248,93 @@ var index = str.search("world");
 console.log(index); // Output: 7
 }</code></pre>
                         </div>
-                        <!-- //sample05 -->
-                        <div id="sample05" class="sample">
-                                <h3>06.slice()</h3>
+                        <!-- //sample06 -->
+                        <div id="sample07" class="sample">
+                                <h3>07.slice()</h3>
                                 <p class="notice">"문자열".slice()</p>
                                 <ul>
-                                        <li>slice() 메서드는 문자열이나 배열에서 일부를 추출해주는 메서드입니다.
+                                        <li>slice() 메서드는 JavaScript의 배열(Array) 객체에서 사용되는 메서드로, 배열의 일부분을 추출하여 새로운 배열을
+                                                반환합니다.
                                         </li>
-                                        <li>문자열에서 사용할 때는 원하는 부분을 지정한 시작과 끝 인덱스로 잘라내어 새로운 문자열을 반환하고,</li>
+                                        <li>이 메서드는 기존 배열을 변경하지 않고 새로운 배열을 생성합니다.</li>
+                                </ul>
+                                <pre class="javascript"><code> 배열 슬라이싱{
+let myArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let slicedArray = myArray.slice(2, 7);
+console.log(slicedArray);  // 출력: [3, 4, 5, 6, 7]
+}
+문자열 슬라이싱{
+let myString = "Hello, World!";
+let slicedString = myString.slice(7);
+console.log(slicedString);  // 출력: World!
+}
+음수 인덱스 사용{
+let myArray = [1, 2, 3, 4, 5];
+let slicedArray = myArray.slice(-3);
+console.log(slicedArray);  // 출력: [3, 4, 5]
+}
+</code></pre>
+                        </div>
+                        <!-- //sample07 -->
+                        <div id="sample08" class="sample">
+                                <h3>08.substring()</h3>
+                                <p class="notice">"문자열".substring()</p>
+                                <ul>
+                                        <li>substring() 메서드는 JavaScript 문자열 객체의 메서드 중 하나로, 문자열에서 지정된 범위의 부분 문자열을 반환합니다.
+                                        </li>
+                                        <li>이 메서드는 두 개의 매개변수를 받습니다: 시작 인덱스와 끝 인덱스입니다.</li>
                                         <li></li>
                                 </ul>
-                                <pre class="javascript"><code>{
-var str = "Hello, world!";
-var index = str.search("world");
-console.log(index); // Output: 7
-}</code></pre>
+                                <pre class="javascript"><code> {
+let str = "Hello, world!";
+let subStr = str.substring(7, 12);
+console.log(subStr);  // 출력: "world"
+
+Hello, world!" 문자열에서 인덱스 7부터 인덱스 11까지의 문자열을 추출하여 subStr 변수에 할당합니다. 결과적으로 "world"라는 부분 문자열이 생성되고 콘솔에 출력됩니다.
+}
+</code></pre>
                         </div>
-                        <!-- //sample05 -->
+                        <!-- //sample08 -->
+                        <div id="sample09" class="sample">
+                                <h3>09.split()</h3>
+                                <p class="notice">"문자열".split() </p>
+                                <ul>
+                                        <li>split() 메서드는 JavaScript 문자열(String) 객체에서 사용되는 메서드로, 문자열을 지정된 구분자(delimiter)를
+                                                기준으로 나누어 배열(Array)로 반환합니다.
+                                        </li>
+                                </ul>
+                                <pre class="javascript"><code> {
+let str = "apple,banana,orange";
+let fruits = str.split(",");
+console.log(fruits); // 출력: ["apple", "banana", "orange"]
+
+str 문자열을 쉼표(",")를 기준으로 나누어 배열로 변환하여 fruits 변수에 할당합니다. 결과적으로 fruits 배열에는 ["apple", "banana", "orange"]가 포함되어 있습니다.
+
+split() 메서드를 사용하면 문자열을 쉽게 분할하여 배열로 변환할 수 있습니다.
+}
+</code></pre>
+                        </div>
+                        <!-- //sample09 -->
+                        <div id="sample10" class="sample">
+                                <h3>10.trim()</h3>
+                                <p class="notice">"문자열".trim()</p>
+                                <ul>
+                                        <li>trim() 메서드는 JavaScript 문자열(String) 객체에서 사용되는 메서드로, 문자열의 양 끝에 있는 공백을 제거합니다.
+                                        </li>
+                                        <li>"공백"이란 일반적으로 공백(space), 탭(tab), 줄 바꿈(newline)과 같은 공백 문자들을 의미합니다.</li>
+                                </ul>
+                                <pre class="javascript"><code> {
+let str = "   Hello, world!   ";
+let trimmedStr = str.trim();
+console.log(trimmedStr); // 출력: "Hello, world!"
+
+str 문자열의 양 끝에 있는 공백이 제거된 후에 trimmedStr 변수에 할당됩니다. 그 결과로 "Hello, world!"라는 문자열이 콘솔에 출력됩니다.
+
+trim() 메서드는 주로 사용자 입력을 처리할 때나 문자열을 비교할 때 유용합니다. 이메일 주소나 사용자 이름 등의 경우 공백을 포함할 수 있으며, 이를 제거하여 정확한 값을 얻을 수 있습니다.
+}
+</code></pre>
+                        </div>
+                        <!-- //sample10 -->
                 </div>
                 <!-- //main__sample -->
         </main>
