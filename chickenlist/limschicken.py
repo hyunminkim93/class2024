@@ -9,17 +9,19 @@ def get_menu_data(url):
     soup = bs(res.text, "lxml")
     
     menu = soup.select("div.tit")
+    sub = soup.select("div.detail")
     price = soup.select("div.price")
     menuimage = soup.select("span.img_box")
 
     chart_data = []
-    for m, p, mi in zip(menu, price, menuimage):
+    for m, s, p, mi in zip(menu, sub, price, menuimage):
         # 이미지가 있는지 확인
         img_tag = mi.select_one("img")
         img_url = img_tag['src'] if img_tag else None
 
         chart_data.append({
             'Menu': m.text.strip(),
+            'Sub': s.text.strip(),
             'Price': p.text.strip(),
             'MenuImage': img_url
         })
