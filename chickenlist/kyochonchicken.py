@@ -8,10 +8,10 @@ def get_menu_data(url):
     res.encoding = 'UTF-8'
     soup = bs(res.text, "lxml")
     
-    menu = soup.select("span.lPzHi")
-    sub = soup.select("div.kPogF")
-    price = soup.select("div.GXS1X")
-    menuimage = soup.select(".place_thumb")
+    menu = soup.select("div.tit")
+    sub = soup.select("div.detail")
+    price = soup.select("div.price")
+    menuimage = soup.select("span.img_box")
 
     chart_data = []
     for m, s, p, mi in zip(menu, sub, price, menuimage):
@@ -28,9 +28,9 @@ def get_menu_data(url):
     return chart_data
 
 # URL 정의
-url = "https://m.place.naver.com/restaurant/37398347/menu/list"
+url = "https://m.booking.naver.com/order/bizes/912175/items/5084532?theme=place&refererCode=menutab&area=pll"
 chart_data = get_menu_data(url)
 
 # 데이터를 JSON 파일로 저장
-with open("Hosigichicken.json", "w", encoding='UTF-8') as json_file:
+with open("kyochonchicken.json", "w", encoding='UTF-8') as json_file:
     json.dump(chart_data, json_file, ensure_ascii=False, indent=4)

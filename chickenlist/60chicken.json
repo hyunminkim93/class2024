@@ -1,302 +1,200 @@
 [
     {
-        "Menu": "크랑이치킨 (뼈/순살)",
-        "Sub": "크크크 치킨과 호랑이 시즈닝의 빠삭한 만남!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_kraangi.jpg"
+        "Menu": "하하핫치킨매운맛1단계N",
+        "Sub": "",
+        "Price": "22,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_60/1699257480525OYDlS_PNG/%C7%CF%C7%CF%C7%D6%C4%A1%C5%B2_45%B5%B5_%B9%E8%B9%CE_1280x960.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "푸하핫치킨 (뼈/순살)",
-        "Sub": "하하핫치킨을 더욱 핫하게!                            푸하핫 웃음이 나오는 매콤한 맛!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_puhahaha.jpg"
+        "Menu": "크크크치킨인기대표",
+        "Sub": "바삭 끝판왕 크크크치킨에 2가지 디핑소스 새콤한 크크크소스 & 달콤한 콘크림소스를 찍어 먹으면 바삭해서 ㅋㅋㅋ 맛있어서 ㅋㅋㅋ",
+        "Price": "22,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_82/1699257280739ivuSC_PNG/%C5%A9%C5%A9%C5%A9%C4%A1%C5%B2_45%B5%B5_%B9%E8%B4%DE%C0%C7%B9%CE%C1%B7%281280x1280%29_%281%29.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "하하핫치킨 (뼈/순살)",
-        "Sub": "기분 좋게 맛있는 매콤함!                            먹자마자 입이 신나는 하하핫치킨!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_hhh.jpg"
+        "Menu": "크크크치킨인기대표",
+        "Sub": "바삭 끝판왕 크크크치킨에 2가지 디핑소스 새콤한 크크크소스 & 달콤한 콘크림소스를 찍어 먹으면 바삭해서 ㅋㅋㅋ 맛있어서 ㅋㅋㅋ",
+        "Price": "22,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_82/1699257280739ivuSC_PNG/%C5%A9%C5%A9%C5%A9%C4%A1%C5%B2_45%B5%B5_%B9%E8%B4%DE%C0%C7%B9%CE%C1%B7%281280x1280%29_%281%29.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "크크크치킨 (뼈/순살)",
-        "Sub": "크럼블! 크런치 ! 크리스피 !                            바삭하고맛있어서 ㅋㅋㅋ 웃음이 터지는 치킨",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_kkk.jpg"
+        "Menu": "호랑이치킨매운맛1단계대표",
+        "Sub": "달콤한 소스에 알싸한 갈릭파우더로 달콤짭짤한 맛",
+        "Price": "21,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_135/1699257650398nHsNO_PNG/%C0%FA%BF%EB%B7%AE_%BD%C5%B8%DE%B4%BA_%C8%A3%B6%FB%C0%CC%C4%A1%C5%B2_1280.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "장스치킨 (뼈/순살)",
-        "Sub": "진짜 맛있는 고추장의 위력!                            매콤달콤한 고추장 소스 치킨!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img04.jpg"
-    },
-    {
-        "Menu": "콤보",
-        "Sub": "맛있는 부위만 모았다!                             윙+봉+다리 콤보!                             (소스 추가시 비용발생)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_combo.jpg"
-    },
-    {
-        "Menu": "윙봉세트",
-        "Sub": "맛있는 윙과 봉만 모은                            인기 메뉴 윙봉세트!                            (쫀득볼 5개 포함)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_wingbong.jpg"
-    },
-    {
-        "Menu": "호랑이치킨 (뼈/순살)",
-        "Sub": "알싸한 갈릭파우더와 달콤한 콘후레이크의                            매콤달콤 범상치 않은 맛!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_horang.jpg"
-    },
-    {
-        "Menu": "고추치킨 (뼈/순살)",
-        "Sub": "감칠맛나는 특제간장소스에 맵지않은 고추로                        버무려 담백하고 깔끔한 맛이 일품",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img09.jpg"
-    },
-    {
-        "Menu": "간지치킨 (뼈/순살)",
-        "Sub": "60계치킨 대표메뉴                        특제간장소스와 누룽지가 환상적으로                        어우러져 담백하고 고소한 풍미가 일품",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img08.jpg"
-    },
-    {
-        "Menu": "더매운고추치킨 (뼈/순살)",
-        "Sub": "인기메뉴 고추치킨 보다                        더 맵고, 더 맛있는 더 매운 고추치킨!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img13.jpg"
-    },
-    {
-        "Menu": "6초치킨 (뼈/순살)",
-        "Sub": "6초 뒤에 터지는 강렬한 매운맛                        깔끔하게 매운 6초치킨",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img11.jpg"
-    },
-    {
-        "Menu": "후라이드 치킨 (뼈/순살)",
-        "Sub": "깨끗한 새 기름과 독특한 튀김기술이 만나                        겉은 바삭! 속은 담백한 후라이드 치킨!!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img10.jpg"
-    },
-    {
-        "Menu": "양념치킨 (뼈/순살)",
-        "Sub": "추억의 맛 그대로 살렸다                        매콤하고 맛있는 양념치킨!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img07.jpg"
-    },
-    {
-        "Menu": "맛있는 닭봉만×15",
-        "Sub": "원하는 부위만 골라서 드세요! 가성비 甲                        맛있는 닭봉만 15조각                        (소스추가시 1,000원)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img01.jpg"
-    },
-    {
-        "Menu": "맛있는 윙만×15",
-        "Sub": "원하는 부위만 골라서 드세요! 가성비 甲                        맛있는 윙만 15조각                        (소스추가시 1,000원)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img02.jpg"
-    },
-    {
-        "Menu": "맛있는 다리만",
-        "Sub": "원하는 부위만 골라서 드세요! 가성비 甲                        맛있는 다리만 (6조각 1/2컷팅)                         (소스추가시 1,000원)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img03.jpg"
-    },
-    {
-        "Menu": "호랑이 치즈볼",
-        "Sub": "맛있는 호랑이치킨을 다양하게!                        맛있는 치즈볼과 맛있는 호랑이 시즈닝의 만남!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_ho.jpg"
-    },
-    {
-        "Menu": "호랑이 쫀도그",
-        "Sub": "맛있는 호랑이치킨을 다양하게!                        쫀득한 쫀도그와 호랑이 시즈닝의 만남!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_ho_2.jpg"
-    },
-    {
-        "Menu": "호랑이 웨지감자",
-        "Sub": "맛있는 호랑이치킨을 다양하게!                        맛없을 수 없는 웨지감자와 호랑이시즈닝의 꿀조합",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_ho_3.jpg"
-    },
-    {
-        "Menu": "미니쫀득볼",
-        "Sub": "쫀득~탱탱!                        찹쌀도넛 같은 쫀득한 식감의 미니볼!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_jjon.jpg"
-    },
-    {
-        "Menu": "포테이토 치즈스틱",
-        "Sub": "바삭한 감자튀김 안에 쫀득한 치즈스틱이 쏘옥~                        바삭쫀득 꿀캐미!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_chise.jpg"
-    },
-    {
-        "Menu": "쫀득치즈볼",
-        "Sub": "찹쌀 도넛 같이 쫀든한 식감에                        달콤한 모짜렐라 크림치즈가 듬뿍!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img14.jpg"
-    },
-    {
-        "Menu": "쫀도그",
-        "Sub": "쫀득쫀득                        맛있는 핫도그!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img24.jpg"
-    },
-    {
-        "Menu": "떡볶이",
-        "Sub": "치킨을 찍어 먹으면 찰떡 궁합                        자꾸 먹게되는 매콤달콤 떡볶이!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img12.jpg"
-    },
-    {
-        "Menu": "멘보샤",
-        "Sub": "식빵 사이에 다진 새우를 넣고                        튀긴 고소하고 바삭한 멘보샤!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img20.jpg"
-    },
-    {
-        "Menu": "골뱅이무침",
-        "Sub": "골뱅이와 쫄면에 장스소스를 버무린                        매콤새콤 골뱅이무침! (홀 전용)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img22.jpg"
-    },
-    {
-        "Menu": "해물어묵탕",
-        "Sub": "따끈따끈 국물과 시원한 해산물향이                         매력적인 어묵탕! (홀 전용)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img23.jpg"
-    },
-    {
-        "Menu": "황금먹태",
-        "Sub": "바삭바삭 특유의 고속함과                        감칠맛 그대로 간직한 황금빛 먹태! (홀 전용)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_muktae.jpg"
-    },
-    {
-        "Menu": "마른안주세트",
-        "Sub": "자꾸만 손이 가는쫀득한 마른안주 3종 세트! (홀 전용)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_anjuset.jpg"
-    },
-    {
-        "Menu": "크랑이치킨",
-        "Sub": "크크크 치킨과 호랑이 시즈닝의 빠삭한 만남!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_kraangi.jpg"
-    },
-    {
-        "Menu": "푸하핫치킨",
-        "Sub": "하하핫치킨을 더욱 핫하게!                        푸하핫 웃음이 나오는 매콤한 맛!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_puhahaha.jpg"
-    },
-    {
-        "Menu": "하하핫치킨",
-        "Sub": "기분 좋게 맛있는 매콤함!                        먹자마자 입이 신나는 하하핫치킨!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_hhh.jpg"
-    },
-    {
-        "Menu": "크크크치킨",
-        "Sub": "크럼블! 크런치 ! 크리스피 !                        바삭하고 맛있어서 ㅋㅋㅋ 웃음이 터지는 치킨",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_kkk.jpg"
-    },
-    {
-        "Menu": "장스치킨",
-        "Sub": "진짜 맛있는 고추장의 위력!                        매콤달콤한 고추장 소스 치킨!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img04.jpg"
-    },
-    {
-        "Menu": "콤보",
-        "Sub": "맛있는 부위만 모았다!                        윙+봉+다리 콤보!                        (소스 추가시 비용발생)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_combo.jpg"
-    },
-    {
-        "Menu": "윙봉세트",
-        "Sub": "맛있는 윙과 봉만 모은                        인기 메뉴 윙봉세트!                        (쫀득볼 5개 포함)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_wingbong.jpg"
-    },
-    {
-        "Menu": "호랑이치킨",
-        "Sub": "알싸한 갈릭파우더와 달콤한 콘후레이크의                        매콤달콤 범상치 않은 맛!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_horang.jpg"
-    },
-    {
-        "Menu": "고추치킨",
-        "Sub": "감칠맛나는 특제간장소스에 맵지않은 고추로                        버무려 담백하고 깔끔한 맛이 일품",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img09.jpg"
-    },
-    {
-        "Menu": "간지치킨",
-        "Sub": "60계치킨 대표메뉴                        특제간장소스와 누룽지가 환상적으로                        어우러져 담백하고 고소한 풍미가 일품",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img08.jpg"
-    },
-    {
-        "Menu": "더매운고추치킨",
-        "Sub": "인기메뉴 고추치킨 보다                        더 맵고, 더 맛있는 더 매운 고추치킨!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img13.jpg"
-    },
-    {
-        "Menu": "6초치킨",
-        "Sub": "6초 뒤에 터지는 강렬한 매운맛                        깔끔하게 매운 6초치킨",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img11.jpg"
-    },
-    {
-        "Menu": "후라이드 치킨",
-        "Sub": "깨끗한 새 기름과 독특한 튀김기술이 만나                        겉은 바삭! 속은 담백한 후라이드 치킨!!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img10.jpg"
+        "Menu": "떡볶이엔 순살대표",
+        "Sub": "후라이드순살, 떡볶이, 콜라500ml, 치킨무 기본 제공",
+        "Price": "26,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_79/1699259180104b3qNg_PNG/%B6%B1%BA%BA%C0%CC%BF%A3_%BC%F8%BB%EC_1280x960.png?type=f220_220_60_sharpen"
     },
     {
         "Menu": "양념치킨",
-        "Sub": "추억의 맛 그대로 살렸다                        매콤하고 맛있는 양념치킨!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img07.jpg"
+        "Sub": "깔끔하고 달짝지근해 누구나 즐길수있는 양념치킨",
+        "Price": "20,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_18/1699257965650CzLuY_PNG/%BE%E7%B3%E4%C4%A1%C5%B2_1280_%281%29.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "맛있는 닭봉만×15",
-        "Sub": "원하는 부위만 골라서 드세요! 가성비 甲                        맛있는 닭봉만 15조각                        (소스추가시 1,000원)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img01.jpg"
+        "Menu": "간지치킨",
+        "Sub": "특제간장소스와 누룽지가 환상적으로 어우러져 담백하고 고소한 풍미가 일품 아이들에게 인기",
+        "Price": "21,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_271/1699257585893fBSvo_PNG/%B0%A3%C1%F6%C4%A1%C5%B2_1280.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "맛있는 윙만×15",
-        "Sub": "원하는 부위만 골라서 드세요! 가성비 甲                        맛있는 윙만 15조각                        (소스추가시 1,000원)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img02.jpg"
+        "Menu": "후라이드치킨",
+        "Sub": "60계만의 황금빛 파우더가 선사하는 바삭함과 육즙가득 터지는 부드러운 속살이 환상적인 맛",
+        "Price": "19,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_114/1699257912286tKvdD_PNG/%C8%C4%B6%F3%C0%CC%B5%E5%C4%A1%C5%B2_1280.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "맛있는 다리만",
-        "Sub": "원하는 부위만 골라서 드세요! 가성비 甲                        맛있는 다리만 (6조각 1/2 컷팅)                         (소스추가시 1,000원)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img03.jpg"
+        "Menu": "호랑이치킨매운맛1단계대표",
+        "Sub": "달콤한 소스에 알싸한 갈릭파우더로 달콤짭짤한 맛",
+        "Price": "21,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_135/1699257650398nHsNO_PNG/%C0%FA%BF%EB%B7%AE_%BD%C5%B8%DE%B4%BA_%C8%A3%B6%FB%C0%CC%C4%A1%C5%B2_1280.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "호랑이 치즈볼",
-        "Sub": "맛있는 호랑이치킨을 다양하게!                        맛있는 치즈볼과 맛있는 호랑이 시즈닝의 만남!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_ho.jpg"
+        "Menu": "하하핫치킨매운맛1단계N",
+        "Sub": "",
+        "Price": "22,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_60/1699257480525OYDlS_PNG/%C7%CF%C7%CF%C7%D6%C4%A1%C5%B2_45%B5%B5_%B9%E8%B9%CE_1280x960.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "호랑이 쫀도그",
-        "Sub": "맛있는 호랑이치킨을 다양하게!                        쫀득한 쫀도그와 호랑이 시즈닝의 만남!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_ho_2.jpg"
+        "Menu": "더매운고추치킨매운맛2단계",
+        "Sub": "더 맵고! 더 맛~~~~ 있는 더 매운 고추 치킨!",
+        "Price": "21,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_5/1699257756597kkaaA_PNG/%B4%F5%B8%C5%BF%EE%B0%ED%C3%DF%C4%A1%C5%B2_1280.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "호랑이 웨지감자",
-        "Sub": "맛있는 호랑이치킨을 다양하게!                        맛없을 수 없는 웨지감자와 호랑이시즈닝의 꿀조합",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_ho_3.jpg"
+        "Menu": "크크크치킨인기대표",
+        "Sub": "바삭 끝판왕 크크크치킨에 2가지 디핑소스 새콤한 크크크소스 & 달콤한 콘크림소스를 찍어 먹으면 바삭해서 ㅋㅋㅋ 맛있어서 ㅋㅋㅋ",
+        "Price": "22,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_82/1699257280739ivuSC_PNG/%C5%A9%C5%A9%C5%A9%C4%A1%C5%B2_45%B5%B5_%B9%E8%B4%DE%C0%C7%B9%CE%C1%B7%281280x1280%29_%281%29.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "미니쫀득볼",
-        "Sub": "쫀득~탱탱!                        찹쌀도넛 같은 쫀득한 식감의 미니볼!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_jjon.jpg"
+        "Menu": "고추치킨매운맛1단계",
+        "Sub": "감칠맛나는 특제간장소스에 맵지않은 고추로 버무려 담백하고 깔끔한 맛이 일품 엄마 아빠 인기",
+        "Price": "21,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_34/1699257545350OxYXV_PNG/%B0%ED%C3%DF%C4%A1%C5%B2_1280.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "포테이토 치즈스틱",
-        "Sub": "바삭한 감자튀김 안에 쫀득한 치즈스틱이 쏘옥~                        바삭쫀득 꿀캐미!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_chise.jpg"
+        "Menu": "치즈볼엔 순살",
+        "Sub": "후라이드순살, 치즈볼(3개), 메이플소스, 콜라500ml, 치킨무 기본 제공",
+        "Price": "24,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_298/1699259520931x0hLx_PNG/%C4%A1%C1%EE%BA%BC%BF%A3_%BC%F8%BB%EC_1280x960.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "쫀득치즈볼",
-        "Sub": "찹쌀 도넛 같이 쫀든한 식감에                        달콤한 모짜렐라 크림치즈가 듬뿍!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img14.jpg"
+        "Menu": "떡볶이엔 순살대표",
+        "Sub": "후라이드순살, 떡볶이, 콜라500ml, 치킨무 기본 제공",
+        "Price": "26,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_79/1699259180104b3qNg_PNG/%B6%B1%BA%BA%C0%CC%BF%A3_%BC%F8%BB%EC_1280x960.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "쫀도그",
-        "Sub": "쫀득쫀득                        맛있는 핫도그!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img24.jpg"
+        "Menu": "콤보세트",
+        "Sub": "윙 8조각, 봉 8조각, 다리 8조각(윗부분4+아랫부분4), 콜라500ml, 치킨무 기본 제공",
+        "Price": "21,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_259/1699258804515SDANt_PNG/%C8%C4%B6%F3%C0%CC%B5%E5%C4%DE%BA%B8_%BC%BC%C6%AE.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "멘보샤엔 순살",
+        "Sub": "후라이드순살, 멘보샤(5개), 청양마요소스, 콜라500ml, 치킨무 기본 제공",
+        "Price": "25,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_210/1699259571219BsPkb_PNG/%B8%E0%BA%B8%BB%FE%BF%A3_%BC%F8%BB%EC_1280x960.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "윙봉세트",
+        "Sub": "윙 14조각, 봉 10조각, 쫀득볼5개, 웨지감자, 콜라500ml, 치킨무 기본 제공",
+        "Price": "21,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_120/1699258842460cqoTV_PNG/%C8%C4%B6%F3%C0%CC%B5%E5%C0%AE%BA%C0_%BC%BC%C6%AE.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "뼈or순살 반+반",
+        "Sub": "반마리+반마리",
+        "Price": "20,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_251/1699260402191FAeyL_PNG/%B0%A3%C1%F6%B9%DD%2B%C8%A3%B6%FB%C0%CC%B9%DD.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "콤보.윙봉 반반",
+        "Sub": "콤보&윙봉 반마리+반마리",
+        "Price": "21,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_254/16992605874679MxbK_JPEG/%C5%BE_%B9%DD%B9%DD%C4%DE%BA%B8_1280.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "똥집튀김",
+        "Sub": "똥집튀김+델리소스+마요네즈",
+        "Price": "10,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_5/1699262305983zIOU9_PNG/%C8%C4%B6%F3%C0%CC%B5%E5_%B6%CB%C1%FD%C6%A2%B1%E8.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "포테이토치즈스틱",
+        "Sub": "포테이토치즈스틱(3ea)+청양마요",
+        "Price": "6,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_19/1699261961369wedgo_PNG/%C6%F7%C5%D7%C0%CC%C5%E4%C4%A1%C1%EE%BD%BA%C6%BD_%B9%E8%B9%CE.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "아매워똥집튀김",
+        "Sub": "아매워똥집+마요네즈",
+        "Price": "11,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_219/1699262561727qVlNB_PNG/%BE%C6%B8%C5%BF%F6_%B6%CB%C1%FD%C6%A2%B1%E8.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치즈스틱",
+        "Sub": "치즈스틱(5ea)+케찹",
+        "Price": "4,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_233/16992619998955T48D_PNG/%C4%A1%C1%EE%BD%BA%C6%BD_%B9%E8%B9%CE.png?type=f220_220_60_sharpen"
     },
     {
         "Menu": "떡볶이",
-        "Sub": "치킨을 찍어 먹으면 찰떡 궁합                        자꾸 먹게되는 매콤달콤 떡볶이!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img12.jpg"
+        "Sub": "알싸하게 매콤하여 치킨과 환상의 조화",
+        "Price": "6,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_292/1699261547992qPOTD_PNG/%B6%B1%BA%BA%C0%CC_1280x960.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "마늘똥집튀김",
+        "Sub": "마늘똥집+마요네즈",
+        "Price": "11,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_148/1699262626589u6w3e_PNG/%B0%A5%C4%DE%B0%A5%B8%AF_%B6%CB%C1%FD%C6%A2%B1%E8.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "쫀도그",
+        "Sub": "쫀도그(3ea)+케찹",
+        "Price": "5,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_158/1699262116425ELT8o_PNG/%C2%CB%B5%B5%B1%D7_%B9%E8%B9%CE.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치즈볼",
+        "Sub": "치즈볼(5ea)+메이플시럽",
+        "Price": "5,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_272/1699261709255Iu3h0_PNG/%C2%CB%B5%E6%C4%A1%C1%EE%BA%BC_45%B5%B5_%B9%E8%B9%CE_1280x960.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "장스똥집튀김",
+        "Sub": "장스똥집+마요네즈",
+        "Price": "11,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_287/1699262597940aIv2P_PNG/%C0%E5%BD%BA_%B6%CB%C1%FD%C6%A2%B1%E8.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "미니쫀득볼",
+        "Sub": "미니쫀득볼(10ea)+메이플시럽",
+        "Price": "2,700원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_165/1699262726674qayJq_PNG/%B9%CC%B4%CF%C2%CB%B5%E6%BA%BC_%B9%E8%B9%CE.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "양념똥집튀김",
+        "Sub": "양념똥집+청양마요",
+        "Price": "11,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_227/1699262496339kEdCY_PNG/%BE%E7%B3%E4_%B6%CB%C1%FD%C6%A2%B1%E8.png?type=f220_220_60_sharpen"
     },
     {
         "Menu": "멘보샤",
-        "Sub": "식빵 사이에 다진 새우를 넣고                        튀긴 고소하고 바삭한 멘보샤!",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img20.jpg"
+        "Sub": "멘보샤(10ea)+청양마요",
+        "Price": "8,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_2/1699261895335VX0t0_PNG/%B8%E0%BA%B8%BB%FE_%B9%E8%B9%CE.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "골뱅이무침",
-        "Sub": "골뱅이와 쫄면에 장스소스를 버무린                        매콤새콤 골뱅이무침! (홀 전용)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img22.jpg"
-    },
-    {
-        "Menu": "해물어묵탕",
-        "Sub": "따끈따끈 국물과 시원한 해산물향이                     매력적인 어묵탕! (홀 전용)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img23.jpg"
-    },
-    {
-        "Menu": "황금먹태",
-        "Sub": "바삭바삭 특유의 고속함과                    감칠맛 그대로 간직한 황금빛 먹태! (홀 전용)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_muktae.jpg"
-    },
-    {
-        "Menu": "마른안주세트",
-        "Sub": "자꾸만 손이 가는쫀득한 마른안주 3종 세트! (홀 전용)",
-        "menuimage": "https://www.60chicken.com/theme/basic/img/sub/menu_img_anjuset.jpg"
+        "Menu": "웨지감자",
+        "Sub": "존맛",
+        "Price": "3,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231106_241/1699262167394xVG9G_PNG/%BF%FE%C1%F6%B0%A8%C0%DA_%B9%E8%B9%CE.png?type=f220_220_60_sharpen"
     }
 ]

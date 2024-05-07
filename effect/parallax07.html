@@ -4,11 +4,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parallax04</title>
+    <title>Parallax07</title>
     <link href="https://webfontworld.github.io/NexonLv1Gothic/NexonLv1Gothic.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/parallax.css">
     <style>
+        body {
+            --bg-color: #111;
+            background-color: var(--bg-color);
+        }
+
+        .header__inner a {
+            color: #fff;
+        }
+
         /* parallax__cont */
         #parallax__cont {
             max-width: 1600px;
@@ -131,6 +140,11 @@
             margin-left: auto;
             margin-right: -4vw;
         }
+
+        .split>span {
+            display: inline-block;
+            min-width: 1.3vw;
+        }
     </style>
 </head>
 
@@ -138,8 +152,8 @@
     <div id="wrap">
         <header id="header">
             <div class="header__inner">
-                <h1><a href="index.html">Parallax Effect 04</a></h1>
-                <p>GSAP scrollTrigger - 이질감효과주기</p>
+                <h1><a href="index.html">Parallax Effect 07</a></h1>
+                <p>GSAP scrollTrigger - 텍스트효과</p>
 
                 <div class="link">
                     <ul>
@@ -151,7 +165,7 @@
         <!-- //header -->
 
         <main id="parallax__cont">
-            <section id="section1" class="parallax__item">
+            <section id="section1" class="parallax__item" data-bgcolor="#111111">
                 <span class="parallax__item__num">01</span>
                 <h2 class="parallax__item__title">section1</h2>
                 <figure class="parallax__item__imgWrap">
@@ -161,7 +175,7 @@
             </section>
             <!-- //section1 -->
 
-            <section id="section2" class="parallax__item">
+            <section id="section2" class="parallax__item" data-bgcolor="#aaa">
                 <span class="parallax__item__num">02</span>
                 <h2 class="parallax__item__title">section2</h2>
                 <figure class="parallax__item__imgWrap">
@@ -171,7 +185,7 @@
             </section>
             <!-- //section2 -->
 
-            <section id="section3" class="parallax__item">
+            <section id="section3" class="parallax__item" data-bgcolor="#269543">
                 <span class="parallax__item__num">03</span>
                 <h2 class="parallax__item__title">section3</h2>
                 <figure class="parallax__item__imgWrap">
@@ -181,7 +195,7 @@
             </section>
             <!-- //section3 -->
 
-            <section id="section4" class="parallax__item">
+            <section id="section4" class="parallax__item" data-bgcolor="#403321">
                 <span class="parallax__item__num">04</span>
                 <h2 class="parallax__item__title">section4</h2>
                 <figure class="parallax__item__imgWrap">
@@ -191,7 +205,7 @@
             </section>
             <!-- //section4 -->
 
-            <section id="section5" class="parallax__item">
+            <section id="section5" class="parallax__item" data-bgcolor="#342243">
                 <span class="parallax__item__num">05</span>
                 <h2 class="parallax__item__title">section5</h2>
                 <figure class="parallax__item__imgWrap">
@@ -201,7 +215,7 @@
             </section>
             <!-- //section5 -->
 
-            <section id="section6" class="parallax__item">
+            <section id="section6" class="parallax__item" data-bgcolor="#203421">
                 <span class="parallax__item__num">06</span>
                 <h2 class="parallax__item__title">section6</h2>
                 <figure class="parallax__item__imgWrap">
@@ -211,7 +225,7 @@
             </section>
             <!-- //section6 -->
 
-            <section id="section7" class="parallax__item">
+            <section id="section7" class="parallax__item" data-bgcolor="#403341">
                 <span class="parallax__item__num">07</span>
                 <h2 class="parallax__item__title">section7</h2>
                 <figure class="parallax__item__imgWrap">
@@ -221,7 +235,7 @@
             </section>
             <!-- //section7 -->
 
-            <section id="section8" class="parallax__item">
+            <section id="section8" class="parallax__item" data-bgcolor="#550431">
                 <span class="parallax__item__num">08</span>
                 <h2 class="parallax__item__title">section8</h2>
                 <figure class="parallax__item__imgWrap">
@@ -231,7 +245,7 @@
             </section>
             <!-- //section8 -->
 
-            <section id="section9" class="parallax__item">
+            <section id="section9" class="parallax__item" data-bgcolor="#304432">
                 <span class="parallax__item__num">09</span>
                 <h2 class="parallax__item__title">section9</h2>
                 <figure class="parallax__item__imgWrap">
@@ -249,10 +263,10 @@
                         <li><a href="parallax01.html">01</a></li>
                         <li><a href="parallax02.html">02</a></li>
                         <li><a href="parallax03.html">03</a></li>
-                        <li class="active"><a href="parallax04.html">04</a></li>
+                        <li><a href="parallax04.html">04</a></li>
                         <li><a href="parallax05.html">05</a></li>
                         <li><a href="parallax06.html">06</a></li>
-                        <li><a href="parallax07.html">07</a></li>
+                        <li class="active"><a href="parallax07.html">07</a></li>
                         <li><a href="parallax08.html">08</a></li>
                         <li><a href="parallax09.html">09</a></li>
                     </ul>
@@ -267,33 +281,37 @@
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollToPlugin.min.js"></script>
     <script>
-        // gsap.to(".parallax__item__desc", {
-        //     yPercent: -100,
-        //     ease: "none",
-        //     duration: 0.5,
+        // gsap.timeline({
         //     scrollTrigger: {
-        //         trigger: ".parallax__item__desc",
-        //         start: "top bottom",
-        //         end: "bottom top",
-        //         markers: true,
+        //         start: 0,
+        //         end: "max",
         //         scrub: true
         //     }
         // })
 
-        gsap.utils.toArray(".parallax__item__desc").forEach((item) => {
-            gsap.to(item, {
-                yPercent: -100,
-                ease: "none",
-                duration: 0.5,
-                scrollTrigger: {
-                    trigger: ".parallax__item__desc",
-                    start: "top bottom",
-                    end: "bottom top",
-                    markers: true,
-                    scrub: true
-                }
+        // bg.to("body", { "--bg-color": "red" })
+        // bg.to("body", { "--bg-color": "green" })
+        // bg.to("body", { "--bg-color": "blue" })
+
+        gsap.utils.toArray(".parallax__item").forEach((item) => {
+            let color = item.getAttribute("data-bgcolor") || "#111111";
+
+            ScrollTrigger.create({
+                trigger: item,
+                start: "top 50%",
+                end: "bottom 5%",
+                markers: true,
+
+                onEnter: () => gsap.to("body", {
+                    backgroundColor: color,
+                    duration: 1.4
+                }),
+                onEnterBack: () => gsap.to("body", {
+                    backgroundColor: color,
+                    duration: 1.4
+                })
             })
-        });
+        })
     </script>
 </body>
 

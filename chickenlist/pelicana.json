@@ -1,284 +1,102 @@
 [
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "치즈뿌리오치킨",
+        "Price": "20,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "골뱅이",
+        "Price": "18,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "매운후라이드치킨",
+        "Price": "19,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "순살파닭치킨",
+        "Price": "20,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "마늘치킨",
+        "Price": "21,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "떡양념치킨",
+        "Price": "20,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "신선다리+날개 양념",
+        "Price": "21,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "신선다리+날개",
+        "Price": "20,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "간장치킨",
+        "Price": "20,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "매운양념치킨",
+        "Price": "20,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "양념치킨",
+        "Price": "19,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "후라이드",
+        "Price": "18,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "똥집튀김",
+        "Price": "12,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "닭발튀김",
+        "Price": "12,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "감자튀김",
+        "Price": "5,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "미니핫도그2개",
+        "Price": "6,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "고구마치즈스틱 10개",
+        "Price": "6,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "추러스치즈볼 5개",
+        "Price": "5,500원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "페리치즈볼 5개",
+        "Price": "5,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "후라이드+양념치킨",
+        "Price": "26,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "후라이드+매운양념치킨",
+        "Price": "27,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "후라이드+간장치킨",
+        "Price": "26,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "(순살)후라이드+양념치킨",
+        "Price": "26,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "(순살)후라이드+간장치킨",
+        "Price": "27,000원"
     },
     {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
-    },
-    {
-        "Menu": "후라이드+후라이드(셋트)대표",
-        "Sub": "",
-        "menuimage": "https://m.booking.naver.com/order/bizes/304477/items/3286605?theme=place&service-target=map-pc&refererCode=menutab/public/assets/img_profile_default.png",
-        "price": "25,000원"
+        "Menu": "(순살)후라이드+매운양념치킨",
+        "Price": "27,000원"
     }
 ]

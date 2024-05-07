@@ -1,5132 +1,554 @@
 [
     {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "쏘마치 콤보",
+        "Sub": "깊고 매콤한 쏘~스와 바삭한 통마늘칩이 어우러진 치킨, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240417_209/1713313801476CSKVV_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
         "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
+        "Sub": "깊고 매콤한 쏘~스와 바삭한 통마늘칩이 어우러진 치킨",
+        "Price": "21,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240417_294/1713313800602d9QaK_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "쏘마치 순살",
+        "Sub": "깊고 매콤한 쏘~스와 바삭한 통마늘칩이 어우러진 치킨, 오직 닭가슴살로만 구성된 촉촉한 순살",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240417_160/1713313800994rTEWK_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "쏘마치 스틱",
+        "Sub": "깊고 매콤한 쏘~스와 바삭한 통마늘칩이 어우러진 치킨, 인기만점 닭다리만 모아 담은 스틱",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240417_229/1713313802143l6Tzg_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "쏘마치 윙",
+        "Sub": "깊고 매콤한 쏘~스와 바삭한 통마늘칩이 어우러진 치킨, 치킨의 꽃인 윙과 봉 부분만 모아 담은 치킨",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240417_144/17133138025606OlDV_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "쏘마치 콤보+치즈볼",
+        "Sub": "깊고 매콤한 쏘~스와 바삭한 통마늘칩이 어우러진 치킨, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보+[1세트 5개 제공] 모짜렐라 치즈가 더해진 달콤바삭 치즈볼!",
+        "Price": "28,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240417_223/1713313802866NawYe_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "쏘마치 콤보+치로스",
+        "Sub": "깊고 매콤한 쏘~스와 바삭한 통마늘칩이 어우러진 치킨, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보+쫄깃바삭! 모짜렐라 치즈가 쭈우욱~ 자이언트 사이즈(24cm)로 길~게!",
+        "Price": "29,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240417_52/1713313803697XTEgD_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
+        "Menu": "쏘마치 콤보+뿌링진미채튀김",
+        "Sub": "깊고 매콤한 쏘~스와 바삭한 통마늘칩이 어우러진 치킨, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보+bhc 시그니처 뿌링클 시즈닝을 더하여 한번 먹으면 멈출 수 없는 바삭 쫄깃한 진미채튀김",
+        "Price": "28,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240417_55/17133138032714lkcq_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "뿌링클 콤보+치즈볼",
+        "Sub": "주문수 1",
+        "Price": "28,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240422_245/1713754626760MJxRB_JPEG/image.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
+        "Menu": "뿌링클+치즈볼",
+        "Sub": "",
+        "Price": "26,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240422_118/1713754627058FMyHC_JPEG/image.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
+        "Menu": "HOT후라이드 콤보+치즈볼",
+        "Sub": "",
+        "Price": "28,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_118/1683893100837q3hmQ_JPEG/image.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "맛초킹 콤보+치즈볼",
+        "Sub": "[윙/봉/닭다리 5조각씩 제공] 명불허전! 바삭함, 고소함 가득! 매콤하게 튀긴 매운 맛 후라이드 치킨의 정석, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보+[1세트 5개 제공] 달콤바삭 치즈볼 *HOT후라이드 시즈닝으로 인해 튀김 성상이 어둡게 나타날 수 있습니다.",
+        "Price": "28,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240422_97/1713754627364sefz7_JPEG/image.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
+        "Menu": "골드킹 콤보+치즈볼",
+        "Sub": "",
+        "Price": "28,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240422_227/1713754627703pTtKy_JPEG/image.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "후라이드 콤보+치즈볼",
+        "Sub": "",
+        "Price": "28,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240422_171/1713754628003HNQMJ_JPEG/image.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "마법클 콤보+치즈볼",
+        "Sub": "",
+        "Price": "28,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230725_229/1690245033884eRbWq_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "뿌링클 콤보",
+        "Sub": "[윙/봉/닭다리 5조각씩 제공] 마늘, 버터와 크런치한 후레이크의 마법같은 조합, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보+[1세트 5개 제공] 달콤바삭 치즈볼",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_218/1683893082154aOX5r_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
         "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Sub": "[윙/봉/닭다리 5조각씩 제공] 뿌링뿌링! 세상에 없던 마법의 맛 뿌링클, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보",
+        "Price": "21,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_236/1683893108050Ppq83_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "뿌링클순살",
+        "Sub": "주문수 1",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_270/168389310768074xll_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "뿌링클 스틱",
+        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_127/1683893076746LXSwk_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
+        "Menu": "뿌링클 윙",
+        "Sub": "주문수 1",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_173/1683893083144aNbbY_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
         "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
+        "Sub": "뿌링뿌링! 뼈 없는 순살로 구성된 세상에 없던 마법의 맛 뿌링클",
+        "Price": "22,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_262/16838930755200QPsi_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
+        "Menu": "뿌링클HOT순살",
+        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클, 인기만점 닭다리만 모아 담은 스틱",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_122/1683893107334lodHC_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "후라이드 콤보",
+        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클, 치킨의 꽃인 날개 부분만 모아 담은 윙",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_236/1683893081540KmaPa_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "후라이드",
+        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신",
+        "Price": "20,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_134/1683893067845CurQv_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "후라이드 스틱",
+        "Sub": "주문수 1",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_32/16838931148459CRyl_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "후라이드 윙",
+        "Sub": "뿌링뿌링! 뼈없는 순살로 구성된 세상에 없던 마법 뿌링가루의 HOT한 변신",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_63/1683893081303mOFH6_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "후라이드 반/양념 반",
+        "Sub": "[윙/봉/닭다리 5조각씩 제공] 명불허전! 바삭하고 고소하게 정직하게 튀겨낸 bhc 후라이드 치킨의 정석, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보",
+        "Price": "21,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_140/1683893067505a4Tl3_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "HOT후라이드 콤보",
+        "Sub": "주문수 1",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230725_185/1690264936120WxtiD_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "HOT후라이드",
+        "Sub": "명불허전! 바삭하고 고소하게 정직하게 튀겨낸 BHC 후라이드 역시 치킨의 정석",
+        "Price": "21,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_213/1683893017510du1bc_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "HOT후라이드 스틱",
+        "Sub": "명불허전! 바삭하고 고소하게 정직하게 튀겨낸 BHC 후라이드 치킨의 정석, 인기만점 닭다리만 모아 담은 스틱",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_7/1683893116955SkcB2_JPEG/image.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "HOT후라이드 윙",
+        "Sub": "명불허전! 바삭하고 고소하게 정직하게 튀겨낸 BHC 후라이드 치킨의 정석, 치킨의 꽃인 날개 부분만 모아 담은 윙",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_60/16838930993737s8se_JPEG/image.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
+        "Menu": "양념치킨",
+        "Sub": "주문수 2",
+        "Price": "21,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_215/1683893068115NkNIS_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "바삭클",
+        "Sub": "명불허전! 바삭하고 고소하게 정직하게 튀겨낸 BHC 후라이드와 칠리소스의 매콤한 양념을 동시에 즐기는 반반",
+        "Price": "18,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_176/1683893068431PKfJg_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
+        "Menu": "바삭클순살",
+        "Sub": "[윙/봉/닭다리 5조각씩 제공] 명불허전! 바삭함, 고소함 가득! 매콤하게 튀긴 매운 맛 후라이드 치킨의 정석, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보 *HOT후라이드 시즈닝으로 인해 튀김 성상이 어둡게 나타날 수 있습니다.",
+        "Price": "22,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_37/1683893021770cCp9n_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "맛초킹 콤보",
+        "Sub": "명불허전! 바삭함, 고소함 가득! 매콤하게 튀긴 매운 맛 후라이드 치킨의 정석 *HOT후라이드 시즈닝으로 인해 튀김 성상이 어둡게 나타날 수 있습니다.",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_279/1683893081840NchDM_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
         "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Sub": "주문수 1",
+        "Price": "21,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_157/1683893074850jgcJF_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "맛초킹순살",
+        "Sub": "[닭다리 10조각 제공] 명불허전! 바삭함, 고소함 가득! 매콤하게 튀긴 매운 맛 후라이드 치킨의 정석, 인기만점 닭다리만 모아 담은 스틱 *HOT후라이드 시즈닝으로 인해 튀김 성상이 어둡게 나타날 수 있습니다.",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_62/1683893106583y0jPo_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "맛초킹 스틱",
+        "Sub": "[윙/봉 10조각씩 제공] 명불허전! 바삭함, 고소함 가득! 매콤하게 튀긴 매운 맛 후라이드 치킨의 정석, 치킨의 꽃인 날개 부분만 모아 담은 윙 *HOT후라이드 시즈닝으로 인해 튀김 성상이 어둡게 나타날 수 있습니다.",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_8/16838930803864mQfk_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
+        "Menu": "맛초킹 윙",
+        "Sub": "주문수 1",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_75/1683893091142K4M9l_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "골드킹 콤보",
+        "Sub": "맵단맵단! 바삭한 후라이드에 매콤한 소스를 입힌 맛",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_98/1683893082847ALyOD_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
         "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
+        "Sub": "담백깔끔! 정직하게 튀겨낸 BHC 후라이드에 바삭함을 더한 옛날 통닭의 귀환",
+        "Price": "20,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_51/1683893075196HrlPt_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "골드킹 순살",
+        "Sub": "담백깔끔! 정직하게 튀겨낸 bhc 후라이드에 바삭함을 더한 옛날 통닭의 귀환! 오직 닭가슴살로만 구성된 순살",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_182/1683893107028mJKBQ_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "골드킹 스틱",
+        "Sub": "[윙/봉/닭다리 5조각씩 제공] 매콤짭짤! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_34/1683893081017UyBTy_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "골드킹 윙",
+        "Sub": "주문수 2",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_286/1683893093992LI9OB_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "마법클 콤보",
+        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 완벽조합",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230725_196/169024503265590ytd_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
         "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
+        "Sub": "매콤짭잘! 순살로 구성된 밥과 함께 먹기에 딱 좋은 완벽조합, \"치밥\"으로 완벽한 조화",
+        "Price": "22,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230725_114/1690245032240hVk0I_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "마법클 순살",
+        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합, 인기만점 닭다리만 모아 담은 스틱",
+        "Price": "23,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230725_164/1690245033294wt7RO_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
+        "Menu": "마법클 스틱",
+        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합, 치킨의 꽃인 날개 부분만 모아 담은 윙",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230725_216/1690245032997ohgxg_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "마법클 윙",
+        "Sub": "[윙/봉/닭다리 5조각씩 제공] 단짠단짠! 숙성간장과 꿀의 황금비율, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230725_161/1690245034505S17AY_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
+        "Menu": "더블팝순살 양념",
+        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율",
+        "Price": "23,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_122/1683893100011Dyg8q_JPEG/image.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
+        "Menu": "더블팝순살 후라이드",
+        "Sub": "단짠단짠! 숙성간장과 꿀의 황금 비율! 오직 닭가슴살로만 구성된 촉촉한 순살",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_239/1683893117750lc5fT_JPEG/image.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "스윗킹 폭립",
+        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율, 인기만점 닭다리만 모아 담은 스틱",
+        "Price": "28,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_239/1683893099715ocz0I_JPEG/image.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
+        "Menu": "레드킹 폭립",
+        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율, 치킨의 꽃인 날개 부분만 모아 담은 윙",
+        "Price": "28,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_270/1683893117431yGmwP_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
+        "Menu": "레드킹 콤보",
+        "Sub": "[윙/봉/닭다리 5조각씩 제공] 마늘, 버터와 크런치한 후레이크의 마법같은 조합, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_114/1683893082435DtHox_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
         "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합",
+        "Price": "21,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_172/1683893074466lWtVq_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "레드킹순살",
+        "Sub": "주문수 1",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_129/1683893074133tEq3C_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "레드킹 스틱",
+        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합, 오직 닭다리살로만 구성된 촉촉한 순살",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_119/16838930807388EaXv_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "레드킹 윙",
+        "Sub": "[닭다리 10조각 제공] 마늘, 버터와 크런치한 후레이크의 마법같은 조합, 인기만점 닭다리만 모아 담은 스틱",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_293/1683893091526pwnys_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "포테킹 후라이드 콤보",
+        "Sub": "[윙/봉 10조각씩 제공] 마늘, 버터와 크런치한 후레이크의 마법같은 조합, 치킨의 꽃인 날개 부분만 모아 담은 윙",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_221/1683893092694JKFNd_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "포테킹 후라이드",
+        "Sub": "주문수 2",
+        "Price": "22,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_133/1683893069901f12rp_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
         "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
+        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블! 깊고 진한 바베큐소스 양념 위에 치즈크림소스가 더블!",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_203/1683893070241gRHxo_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "치퐁당 콤보",
+        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블! 입안에 더블로 팝팝!",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_9/1683893115686KNn4k_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
         "Menu": "치퐁당 후라이드",
+        "Sub": "부드럽고 촉촉한 두툼한 폭립 위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립!",
+        "Price": "22,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_258/16838930695521vRrl_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치퐁당 스틱",
+        "Sub": "겉바속촉하게 튀겨진 폭립위에 크런치 후레이크로 바삭하게! 한 번 맛보면 빠져들 수 밖에 없는 매콤한 레드킹소스와 웨지감자의 갓벽한 만남!",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_97/1683893115266qJ00U_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치퐁당 윙",
+        "Sub": "[윙/봉/닭다리 5조각씩 제공] 눈물주의! 입 안 가득 느껴지는 핫 칠리페퍼의 화끈매콤함, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_133/1683893094362QKRLB_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "커리퀸",
+        "Sub": "눈물주의! 입 안 가득 느껴지는 핫 칠리페퍼의 화끈매콤함",
+        "Price": "21,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_9/1683893106296HrG3w_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "커리퀸순살",
+        "Sub": "눈물주의! 입 안 가득 느껴지는 핫 칠리페퍼의 순살 화끈매콤함",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_217/1683893068722sKy2l_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "커리퀸 스틱",
+        "Sub": "눈물주의! 입 안 가득 느껴지는 핫 칠리페퍼의 화끈매콤함, 인기만점 닭다리만 모아 담은 스틱",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_27/1683893091976jq8Kx_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "커리퀸 윙",
+        "Sub": "눈물주의! 입 안 가득 느껴지는 핫 칠리페퍼의 화끈매콤함, 치킨의 꽃인 날개 부분만 모아 담은 윙",
+        "Price": "23,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_210/1683893092295kbU7V_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "고추장 직화구이",
+        "Sub": "[윙/봉/닭다리 5조각씩 제공] 포텐폭발! 바삭한 감자가 팡팡, 세상에 없던 리얼 감자 후라이드를 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보",
+        "Price": "16,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_241/1683893105935OXinb_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "뿌링진미채튀김",
+        "Sub": "포텐폭발! 바삭한 감자가 팡팡, 세상에 없던 리얼 감자 후라이드",
+        "Price": "5,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240315_61/1710462600404EardV_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치로스",
+        "Sub": "포텐폭발! 바삭한 감자와 매콤한 하바네로 소스의 환상적인 조합(스윗하바네로 소스 1개 포함)",
+        "Price": "6,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240305_155/1709598601196DjGmI_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "달콤바삭치즈볼",
+        "Sub": "[윙/봉/닭다리 5조각씩 제공] 새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력, 퍽퍽한 닭가슴살 없이 윙, 봉, 닭다리만 담은 콤보",
+        "Price": "5,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_38/1683893056331ejWEN_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "뿌링치즈볼",
         "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
+        "Price": "6,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_156/1683893055436itqnd_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "분모자 로제 떡볶이",
+        "Sub": "[닭다리 10조각 제공] 새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력, 인기만점 닭다리만 모아 담은 스틱",
+        "Price": "6,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_263/1683893002792tOoWP_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "뿌링감자",
+        "Sub": "[윙/봉 10조각씩 제공] 새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력, 치킨의 꽃인 날개 부분만 모아 담은 윙",
+        "Price": "5,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_81/1683892996660oSrOO_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "빨간소떡",
+        "Sub": "나마스테! 인도 커리 파우더와 로스팅 갈릭 시즈닝을 더해 이국적인 맛",
+        "Price": "3,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_90/16838930005182NdiQ_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "뿌링소떡",
+        "Sub": "나마스테! 인도 커리 파우더와 로스팅 갈릭 시즈닝을 더해 순살로 담은 이국적인 맛",
+        "Price": "4,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_95/1683893000792DbSBV_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "뿌링핫도그",
+        "Sub": "나마스테! 인도 커리 파우더와 로스팅 갈릭 시즈닝을 더해 순살로 담은 이국적인 맛, 인기만점 닭다리만 모아 담은 스틱",
+        "Price": "6,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240226_223/1708913990859WycBh_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "웨지감자",
+        "Sub": "나마스테! 인도 커리 파우더와 로스팅 갈릭 시즈닝을 더해 이국적인 맛, 치킨의 꽃인 날개 부분만 모아 담은 윙",
+        "Price": "6,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_284/1683893010338Nd4F9_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "뿌링치즈스틱",
+        "Sub": "[2조각 제공]직화로 구워낸 닭에 한국의 매운맛 고추장 소스를 더해 맵싸한 직화구이 치킨",
+        "Price": "5,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_80/168389305607583ttd_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
+        "Menu": "케이준프라이",
+        "Sub": "주문수 1",
+        "Price": "4,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_146/1683893002391D7eBn_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "치킨스넥",
+        "Sub": "bhc 시그니처 뿌링클 시즈닝을 더하여 한번 먹으면 멈출 수 없는 바삭 쫄깃한 진미채튀김",
+        "Price": "11,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_213/1683893009830CLtO0_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
+        "Menu": "단팥 트위스트",
+        "Sub": "쫄깃바삭! 모짜렐라 치즈가 쭈우욱~ 자이언트 사이즈로 길~게!",
+        "Price": "5,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_234/1683893056608fCeNt_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
+        "Menu": "크림치즈 트위스트",
+        "Sub": "주문수 2",
+        "Price": "6,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_192/1683893003116tgCAH_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "뿌링뿌링소스",
+        "Sub": "[1세트 5개 제공] 모짜렐라 치즈가 더해진 달콤바삭 치즈볼",
+        "Price": "2,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_294/1683893001543gIGcG_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
+        "Menu": "맵소사소스",
+        "Sub": "주문수 2",
+        "Price": "2,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_213/1683892995488JXKsM_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
+        "Menu": "스윗하바네로소스",
+        "Sub": "[1세트 5개 제공] 뿌링뿌링, 마법의 가루가 뿌려진 뿌링치즈 치즈볼",
+        "Price": "2,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_84/1683892995229T14Lq_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
+        "Menu": "커리딥소스",
+        "Sub": "매콤달콤 진한 로제소스와 쫄깃한 분모자가 어우러진 신개념 떡볶이",
+        "Price": "2,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_221/1683893001864OrvSW_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "양념소스",
+        "Sub": "뿌링뿌링 마법의 가루가 더해진 바삭한 케이준 프라이",
+        "Price": "500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230512_227/1683893001235jYoap_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "쏘마치",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "쏘마치 콤보/윙/스틱/순살",
-        "Sub": "깊고 매콤한 쏘스와 바삭한 통마늘튀김이 어우러진 치킨",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "뿌링클",
-        "Sub": "뿌링뿌링! 세상에 없던 마법의 맛 뿌링클 뿌링클 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "맛초킹",
-        "Sub": "매콤짭잘! 밥과 함께 먹기에 딱 좋은 맵짠의 완벽조합 맛초킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "마법클",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 순살 23,500원",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "마법클 콤보/윙/스틱",
-        "Sub": "마늘, 버터와 크런치한 후레이크의 마법같은 조합! 콤보/윙/스틱",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "더블팝 순살 양념",
-        "Sub": "바삭함과 촉촉 부드러운 순살이 더블! 바비큐소스 양념 위에 치즈 크림소스가 더블!",
-        "menuimage": "",
-        "price": "23,500원"
-    },
-    {
-        "Menu": "더블팝 순살 후라이드",
-        "Sub": "크런치한 바삭함과 촉촉 부드러운 순살이 더블",
-        "menuimage": "",
-        "price": "23,000원"
-    },
-    {
-        "Menu": "스윗킹폭립",
-        "Sub": "두툼한 폭립위에 바비큐소스 앤 후레이크로 튀겨낸 단짠!바싹!한 스윗킹 폭립",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "레드킹폭립",
-        "Sub": "겉바속촉하게 튀겨진 폭립과 매콤한 레드킹소스의 만남! 크런치 후레이크로 바삭함까지!",
-        "menuimage": "",
-        "price": "28,000원"
-    },
-    {
-        "Menu": "뿌링클HOT",
-        "Sub": "뿌링뿌링! 세상에 없던 마법 뿌링가루의 HOT한 변신(소스 포함)",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "골드킹",
-        "Sub": "단짠단짠! 숙성간장과 꿀의 황금비율 골드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "20,000원"
-    },
-    {
-        "Menu": "레드킹",
-        "Sub": "레드핫칠리페퍼에 마늘을 토핑한 확실하게 매운 맛 레드킹 순살 23,000원",
-        "menuimage": "",
-        "price": "21,000원"
-    },
-    {
-        "Menu": "치퐁당 후라이드",
-        "Sub": "새우,마늘 후레이크에 치킨이 퐁당! 풍미가득한 맛과 후레이크의 바삭한 매력에 빠지다!",
-        "menuimage": "",
-        "price": "22,000원"
-    },
-    {
-        "Menu": "하바네로 포테킹 후라이드",
-        "Sub": "포텐폭발! 세상에 없던 리얼 감자 후라이드 (스윗하바네로 소스 1개 포함)",
-        "menuimage": "",
-        "price": "23,000원"
+        "Menu": "머스타드소스",
+        "Sub": "[1세트 1개 제공] 매콤 양념 소스가 소시지와 떡에 스며든 매콤쫄깃",
+        "Price": "500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231117_79/1700181000644hi1Sf_JPEG/image.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치킨무",
+        "Sub": "[1세트 1개 제공] 뿌링뿌링, 마법의 가루가 더해진 소시지와 떡의 찰떡궁합 쫄깃달콤",
+        "Price": "1,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231229_264/1703830096386zkOdj_PNG/image.png?type=f220_220_60_sharpen"
     }
 ]
