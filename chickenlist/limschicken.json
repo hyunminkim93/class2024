@@ -1,82 +1,97 @@
 [
     {
-        "Menu": "림스 오리지날치킨",
-        "Sub": "후라이드 치킨의 최강자대한민국 치킨 원조, 림스치킨 오리지날",
-        "menuimage": "https://www.limschicken.co.kr/data/file/main/thumb-1026282964_teIKFJaG_cf082c05da10186bbe72d188546f157bb32619c3_400x300.png"
+        "Menu": "후라이드대표",
+        "Price": "20,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230110_181/16733398041590S7bG_JPEG/image_%286%29.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "림스 양념치킨",
-        "Sub": "림스만의 새콤 달콤한 특제소스로 버무려오리지날 치킨과 환상 궁합",
-        "menuimage": "https://www.limschicken.co.kr/data/file/main/thumb-1026282964_F1ZWhsma_4a42a923aae6d5562b237ee4229d04225daec863_400x300.png"
+        "Menu": "다리세트대표",
+        "Price": "27,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 순살치킨",
-        "Sub": "8가지 양념의 고단백·저지방 치킨으로남녀노소 누구나 좋아하는 순살치킨",
-        "menuimage": "https://www.limschicken.co.kr/data/file/main/thumb-1026282964_0lFxgSnh_42d6aa5903215e7f05502466b53b4308669f1bf8_400x300.png"
+        "Menu": "다리+날개대표",
+        "Price": "25,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 핫윙",
-        "Sub": "바삭하고 쫄깃해 먹는 재미가 살아있는콜라겐 덩어리 림스치킨의 핫윙",
-        "menuimage": "https://www.limschicken.co.kr/data/file/main/thumb-1026282964_SgIyDM62_3ceed80139e6c44a2241ca768516cc7b6c6ad544_400x300.png"
+        "Menu": "골뱅이소면대표",
+        "Price": "18,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 간장마늘치킨",
-        "Sub": "마늘과 간장의 환상 조합짜지않고 자꾸만 손이 가게 만드는 치킨",
-        "menuimage": "https://www.limschicken.co.kr/data/file/main/thumb-1026282964_wdgu2qU7_3764dcaca791e5878566b31d6007c316495b9c7a_400x300.png"
+        "Menu": "똥집튀김대표",
+        "Price": "15,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 오리지날 다리만",
-        "Sub": "후라이드 치킨의 최강자오리지날 매니아를 위한 다리만",
-        "menuimage": "https://www.limschicken.co.kr/data/file/main/thumb-1026282964_BWug3sem_d53f906037c67f39e921155aa86c3bc3ea6a64f4_400x300.png"
+        "Menu": "후라이드대표",
+        "Price": "20,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230110_181/16733398041590S7bG_JPEG/image_%286%29.jpg?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "림스 치킨 샐러드",
-        "Sub": "신선한 채소로느끼함을 잡아주는 건강 메뉴!",
-        "menuimage": "https://www.limschicken.co.kr/data/file/sub/thumb-1026282964_clRutsYU_9097fa2ba2a4c11ce16dcaf3e24d41a276995036_400x300.png"
+        "Menu": "다리세트대표",
+        "Price": "27,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 치즈 프라이스",
-        "Sub": "짭조름하고 고소한 치즈 프라이스맥주와 환상궁합!",
-        "menuimage": "https://www.limschicken.co.kr/data/file/sub/thumb-1026282964_sQ8vki2Y_b6d5d76022536e482d50ac9bd7d508b095874782_400x300.png"
+        "Menu": "날개세트",
+        "Price": "20,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 모짜렐라 치즈볼",
-        "Sub": "모짜렐라 치즈가 듬뿍!쫀득쫀득한 치즈볼",
-        "menuimage": "https://www.limschicken.co.kr/data/file/sub/thumb-1026282964_sLyUmduG_e1884d7f7aadce8194e6afbb860f08a011a0dec7_400x300.png"
+        "Menu": "다리+날개대표",
+        "Price": "25,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 근위튀김",
-        "Sub": "쫄깃하고 바삭한 근위튀김사이드 안주로 최고!",
-        "menuimage": "https://www.limschicken.co.kr/data/file/sub/thumb-1026282964_UNw8WAau_f238da8647877bd9c9097d1e5194149ac8205d6d_400x300.png"
+        "Menu": "훈제치킨",
+        "Price": "16,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 감자튀김",
-        "Sub": "치킨과 궁합 최고!바삭한 감자튀김",
-        "menuimage": "https://www.limschicken.co.kr/data/file/sub/thumb-1026282964_N3tUJhVq_e8da099cdc0db043628a8ea6a3ed9f3e03aa1563_400x300.png"
+        "Menu": "간장반+후라이드반",
+        "Price": "22,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 치킨 샐러드",
-        "Sub": "신선한 채소로느끼함을 잡아주는 건강 메뉴!",
-        "menuimage": "https://www.limschicken.co.kr/data/file/sub/thumb-1026282964_clRutsYU_9097fa2ba2a4c11ce16dcaf3e24d41a276995036_400x300.png"
+        "Menu": "양념치킨",
+        "Price": "21,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 치즈 프라이스",
-        "Sub": "짭조름하고 고소한 치즈 프라이스맥주와 환상궁합!",
-        "menuimage": "https://www.limschicken.co.kr/data/file/sub/thumb-1026282964_sQ8vki2Y_b6d5d76022536e482d50ac9bd7d508b095874782_400x300.png"
+        "Menu": "양념반+후라이드반",
+        "Price": "21,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 모짜렐라 치즈볼",
-        "Sub": "모짜렐라 치즈가 듬뿍!쫀득쫀득한 치즈볼",
-        "menuimage": "https://www.limschicken.co.kr/data/file/sub/thumb-1026282964_sLyUmduG_e1884d7f7aadce8194e6afbb860f08a011a0dec7_400x300.png"
+        "Menu": "매운양념치킨",
+        "Price": "22,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 근위튀김",
-        "Sub": "쫄깃하고 바삭한 근위튀김사이드 안주로 최고!",
-        "menuimage": "https://www.limschicken.co.kr/data/file/sub/thumb-1026282964_UNw8WAau_f238da8647877bd9c9097d1e5194149ac8205d6d_400x300.png"
+        "Menu": "매운양념반+후라이드반",
+        "Price": "22,000원",
+        "MenuImage": null
     },
     {
-        "Menu": "림스 감자튀김",
-        "Sub": "치킨과 궁합 최고!바삭한 감자튀김",
-        "menuimage": "https://www.limschicken.co.kr/data/file/sub/thumb-1026282964_N3tUJhVq_e8da099cdc0db043628a8ea6a3ed9f3e03aa1563_400x300.png"
+        "Menu": "간장치킨",
+        "Price": "22,000원",
+        "MenuImage": null
+    },
+    {
+        "Menu": "혼자먹기 딱 좋아",
+        "Price": "12,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230110_125/1673340012954fhgdh_JPEG/image_%287%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "후라이드 닭강정",
+        "Price": "15,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230110_125/1673340012954fhgdh_JPEG/image_%287%29.jpg?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "간장 닭강정",
+        "Price": "17,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230110_125/1673340012954fhgdh_JPEG/image_%287%29.jpg?type=f220_220_60_sharpen"
     }
 ]
