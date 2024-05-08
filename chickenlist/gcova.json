@@ -1,32 +1,38 @@
 [
     {
-        "Menu": "지코바 양념치킨(한마리)",
-        "Sub": "어느 누구도 흉내 낼 수 없는 한국 토종 맛의 특별한 소스로 맛을 낸 지코바 대표치킨 (매콤한 맛/순한 맛) ",
-        "menuimage": "http://ai.esmplus.com/campcam/menu1.jpg",
-        "price": "한마리 20000원/반반 21000원"
+        "Menu": "순살양념구이대표",
+        "Sub": "주문수 1",
+        "Price": "20,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230120_151/16741992569189Sff0_PNG/image_%281%29.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "지코바 소금구이(한마리)",
-        "Sub": "닭 자체의 기름을 적절히 제거하여 느끼함이 없고 육질의 맛은 쫄깃하고 담백하여 한 잔의 맥주와 멋들어지게 어울립니다. ",
-        "menuimage": "http://ai.esmplus.com/campcam/menu2.jpg",
-        "price": "19000원"
+        "Menu": "순살소금구이대표",
+        "Sub": "",
+        "Price": "19,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230120_38/1674199262014AR2KN_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "지코바 윙(날개+봉)",
-        "Sub": "어느 누구도 흉내 낼 수 없는 지코바치킨 소스와 어우러진 닭날개의 쫄깃하고 깔끔한 맛을 느낄 수 있습니다. (매콤한 맛/순한 맛/소금구이)",
-        "menuimage": "http://ai.esmplus.com/campcam/menu3.jpg",
-        "price": "소금구이 20000원/양념구이 21000원"
+        "Menu": "순살소금구이 반마리대표",
+        "Sub": "",
+        "Price": "11,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230120_46/1674199266107X7Iue_PNG/image.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "지코바 스틱(다리)",
-        "Sub": "최고 품질의 재료만을 엄선하여 사용한 지코바치킨 소스와의 어울림으로 닭다리의 부드럽고 촉촉한 속살의 깊은 맛을 느낄 수 있습니다.(순한맛/보통맛/매운맛)",
-        "menuimage": "http://ai.esmplus.com/campcam/menu4.jpg",
-        "price": "소금구이 20000원/양념구이 21000원"
+        "Menu": "순살양념구이대표",
+        "Sub": "1마리 주문시 소금반마리 추가 가능",
+        "Price": "20,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230120_151/16741992569189Sff0_PNG/image_%281%29.png?type=f220_220_60_sharpen"
     },
     {
-        "Menu": "지코바 순살",
-        "Sub": "뼈를 제거한 먹기 쉽고 촉촉한 넓적다리살의 부드러운 깊은 맛을 어느 누구도 모방할 수 없는 지코바치킨 소스로 맛을 낸 순살 맛은 특별합니다.",
-        "menuimage": "http://ai.esmplus.com/campcam/menu6.jpg",
-        "price": "소금구이 20000원/양념구이 21000원/반반 22000원"
+        "Menu": "순살소금구이대표",
+        "Sub": "주문수 1",
+        "Price": "19,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230120_38/1674199262014AR2KN_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "순살소금구이 반마리대표",
+        "Sub": "",
+        "Price": "11,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230120_46/1674199266107X7Iue_PNG/image.png?type=f220_220_60_sharpen"
     }
 ]
