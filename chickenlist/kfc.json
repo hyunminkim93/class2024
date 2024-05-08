@@ -1,0 +1,572 @@
+[
+    {
+        "Menu": "KFC패밀리팩",
+        "Sub": "온가족이 배부르게 먹기 좋은 패밀리팩",
+        "Price": "35,200원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_41/1710808211222IFEP5_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "KFC투게더팩",
+        "Sub": "KFC 인기메뉴를 다같이 먹을 수 있는 투게더팩",
+        "Price": "25,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_251/1710808211731xM9tV_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "KFC베스트팩",
+        "Sub": "KFC 베스트메뉴를 풍성하게 즐길 수 있는 베스트팩",
+        "Price": "17,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_17/1710808212116yriog_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "치즈슈퍼박스",
+        "Sub": "모짜 패티 추가로 맛도 가격도 SUPER 슈퍼박스",
+        "Price": "12,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240402_270/17120178307645D7Qu_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "칠리모짜징거통다리세트",
+        "Sub": "크리스피한 통다리살 필렛에 매콤한 파이어 칠리소스와 모짜렐라 치즈 패티까지 추가해 식감과 맛을 모두 살렸다",
+        "Price": "11,400원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240402_134/1712017830082BwxN7_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "칠리징거통다리세트",
+        "Sub": "크리스피한 통다리살 필렛에 매콤한 파이어 칠리소스를 더해 식감과 맛을 모두 살렸다",
+        "Price": "9,400원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240402_176/17120178294439OuT5_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "칠리모짜징거통다리",
+        "Sub": "크리스피한 통다리살 필렛에 매콤한 파이어 칠리소스와 모짜렐라 치즈 패티까지 추가해 식감과 맛을 모두 살렸다",
+        "Price": "8,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240402_145/1712017829863MJdUz_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "칠리징거통다리",
+        "Sub": "크리스피한 통다리살 필렛에 매콤한 파이어 칠리소스를 더해 식감과 맛을 모두 살렸다",
+        "Price": "6,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240402_70/17120178292252YKXz_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "갓양념통다리3조각세트",
+        "Sub": "KFC에서만 즐길수 있는 치킨세트",
+        "Price": "12,700원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_296/1710808219699zaF0n_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "핫크리스피통다리3조각세트",
+        "Sub": "KFC에서만 즐길수 있는 치킨세트",
+        "Price": "11,800원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_190/1710808219981Ywf7F_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "갓양념통다리8조각(구.갓양념블랙라벨치킨)",
+        "Sub": "달콤한 양념과 부드러운 닭다리 통살의 완벽한 조화 프리미엄 갓양념통다리 [치킨나이트1+1제외]",
+        "Price": "26,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_49/1710808202501iycif_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "갓양념통다리5조각(구.갓양념블랙라벨치킨)",
+        "Sub": "달콤한 양념과 부드러운 닭다리 통살의 완벽한 조화 프리미엄 갓양념통다리 [치킨나이트1+1제외]",
+        "Price": "16,700원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_95/1710808206697Wjl6z_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "갓양념통다리3조각(구.갓양념블랙라벨치킨)",
+        "Sub": "달콤한 양념과 부드러운 닭다리 통살의 완벽한 조화 프리미엄 갓양념통다리 [치킨나이트1+1제외]",
+        "Price": "10,200원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_217/1710808220408t8z1u_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "갓양념통다리1조각(구.갓양념블랙라벨치킨)",
+        "Sub": "달콤한 양념과 부드러운 닭다리 통살의 완벽한 조화 프리미엄 갓양념통다리 [치킨나이트1+1제외]",
+        "Price": "3,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_271/1710808206943VfFHn_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "갓양념치킨 8조각",
+        "Sub": "달콤 매콤, 먹을수록 땡기는 맵달의 조화 한국인 입맛에 딱 맞춘 환상의 갓양념치킨 [치킨나이트1+1제외]",
+        "Price": "25,200원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_86/1710808216015SylpP_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "갓양념치킨 5조각",
+        "Sub": "달콤 매콤, 먹을수록 땡기는 맵달의 조화 한국인 입맛에 딱 맞춘 환상의 갓양념치킨 [치킨나이트1+1제외]",
+        "Price": "16,200원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_209/1710808216378nRt8E_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "갓양념치킨 3조각",
+        "Sub": "달콤 매콤, 먹을수록 땡기는 맵달의 조화 한국인 입맛에 딱 맞춘 환상의 갓양념치킨 [치킨나이트1+1제외]",
+        "Price": "9,900원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_88/1710808216879CSpox_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "갓양념치킨 1조각",
+        "Sub": "달콤 매콤, 먹을수록 땡기는 맵달의 조화 한국인 입맛에 딱 맞춘 환상의 갓양념치킨 [치킨나이트1+1제외]",
+        "Price": "3,400원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_7/17108082166365K9C7_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "오리지널치킨 8조각",
+        "Sub": "KFC만의 11가지 비밀양념, 고압쿠킹 방식으로 육즙이 살아있어 촉촉 담백한 오리지널치킨 [치킨나이트1+1제외]",
+        "Price": "22,800원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_194/1710808207596CBcOq_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "핫크리스피통다리1조각(구.켄터키통다리순살치킨)",
+        "Sub": "부드러운 닭다리 통살로 만든 최고급 프리미엄 치킨 (스위트칠리소스에 찍어 드시면 더 맛있습니다 / 스위트칠리소스 별매 500원) [치킨나이트1+1제외]",
+        "Price": "3,200원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_95/17108082064041vOzW_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "핫크리스피통다리3조각(구.켄터키통다리순살치킨)",
+        "Sub": "부드러운 닭다리 통살로 만든 최고급 프리미엄 치킨 (스위트칠리소스에 찍어 드시면 더 맛있습니다 / 스위트칠리소스 별매 500원) [치킨나이트1+1제외]",
+        "Price": "9,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_175/1710808206159bY5UJ_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "핫크리스피통다리5조각(구.켄터키통다리순살치킨)",
+        "Sub": "부드러운 닭다리 통살로 만든 최고급 프리미엄 치킨 (스위트칠리소스에 찍어 드시면 더 맛있습니다 / 스위트칠리소스 별매 500원) [치킨나이트1+1제외]",
+        "Price": "15,200원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_131/1710808205795CLDlR_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "핫크리스피통다리8조각(구.켄터키통다리순살치킨)",
+        "Sub": "부드러운 닭다리 통살로 만든 최고급 프리미엄 치킨 (스위트칠리소스에 찍어 드시면 더 맛있습니다 / 스위트칠리소스 별매 500원) [치킨나이트1+1제외]",
+        "Price": "23,600원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_270/1710808205513hEOxs_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "오리지널치킨 5조각",
+        "Sub": "KFC만의 11가지 비밀양념, 고압쿠킹 방식으로 육즙이 살아있어 촉촉 담백한 오리지널치킨 [치킨나이트1+1제외]",
+        "Price": "14,700원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_51/1710808207813zADGg_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "오리지널치킨 3조각",
+        "Sub": "KFC만의 11가지 비밀양념, 고압쿠킹 방식으로 육즙이 살아있어 촉촉 담백한 오리지널치킨 [치킨나이트1+1제외]",
+        "Price": "9,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_25/1710808208160mQAsP_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "오리지널치킨 1조각",
+        "Sub": "KFC만의 11가지 비밀양념, 고압쿠킹 방식으로 육즙이 살아있어 촉촉 담백한 오리지널치킨 [치킨나이트1+1제외]",
+        "Price": "3,100원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_49/1710808217233POeVy_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "핫크리스피치킨 8조각",
+        "Sub": "KFC만의 비법으로 매콤 바삭하게 튀겨낸 KFC 핫크리스피치킨 [치킨나이트1+1제외]",
+        "Price": "22,800원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_147/1710808208469gATBd_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "핫크리스피치킨 5조각",
+        "Sub": "KFC만의 비법으로 매콤 바삭하게 튀겨낸 KFC 핫크리스피치킨 [치킨나이트1+1제외]",
+        "Price": "14,700원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_131/1710808205795CLDlR_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "핫크리스피치킨 3조각",
+        "Sub": "KFC만의 비법으로 매콤 바삭하게 튀겨낸 KFC 핫크리스피치킨 [치킨나이트1+1제외]",
+        "Price": "9,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_175/1710808206159bY5UJ_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "핫크리스피치킨 1조각",
+        "Sub": "KFC만의 비법으로 매콤 바삭하게 튀겨낸 KFC 핫크리스피치킨 [치킨나이트1+1제외]",
+        "Price": "3,100원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_95/17108082064041vOzW_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "블랙라벨폴인치즈박스",
+        "Sub": "부드러운 통닭다리살과 크림치즈, 고다치즈, 블루치즈의 완벽한 조화",
+        "Price": "12,700원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_266/1710808209326sHsB5_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "징거더블다운박스",
+        "Sub": "Only meat 치킨 통살로만 구성된 Real 치킨통살",
+        "Price": "12,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231130_139/17013042004659njIv_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "켄터키통다리스파이시박스",
+        "Sub": "매콤한 켄터키통다리스파이시에, 해쉬브라운 소스를 듬뿍 더했다",
+        "Price": "12,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231024_68/1698107406248aqaXV_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "징거BLT박스",
+        "Sub": "KFC 베스트셀러 징거에 치즈와 베이컨을 더해 더욱 풍성해졌다",
+        "Price": "11,700원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231214_251/1702513812293VBPWY_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "징거타워박스",
+        "Sub": "두툼한 가슴살필렛과 해시브라운, 슬라이스 치즈까지 KFC 시그니처 징거타워",
+        "Price": "11,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231214_191/1702513820575NtzMu_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "클래식징거통다리박스",
+        "Sub": "통 닭다리살에 스모키 머스타드 소스까지 더해져 깔끔하고 프리미엄한 클래식징거통다리",
+        "Price": "11,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231128_298/1701131431427OAWcL_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "징거박스",
+        "Sub": "치킨필렛의 풍부한 맛을 강조하기 위해 토마토를 제외하고 더욱 진해진 마요드레싱과 본토의 맛으로 돌아온 KFC 대표 징거",
+        "Price": "10,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231128_187/1701131434511OUeeO_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "트위스터박스",
+        "Sub": "고소한 블랙페퍼마요와 상큼한 토마토 KFC 치킨 텐더까지 더욱 맛있게 돌아온 트위스터",
+        "Price": "9,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_93/1710808219421GSDh0_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "불고기박스",
+        "Sub": "달콤한 불고기 소스와 부드러운 패티로 더 맛있어진 불고기",
+        "Price": "9,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_201/1710808213568Puewn_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "블랙라벨폴인치즈세트",
+        "Sub": "부드러운 통닭다리살과 크림치즈, 고다치즈, 블루치즈의 완벽한 조화",
+        "Price": "10,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231130_95/1701304203347r6X2z_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "징거더블다운세트",
+        "Sub": "Only meat 치킨 통살로만 구성된 Real 치킨통살",
+        "Price": "10,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231130_118/1701304202041YKkIJ_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "켄터키통다리스파이시세트",
+        "Sub": "매콤한 켄터키통다리스파이시에, 해쉬브라운 소스를 듬뿍 더했다",
+        "Price": "9,800원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231024_118/16981074004837DRsy_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "징거BLT세트",
+        "Sub": "KFC 베스트셀러 징거에 치즈와 베이컨을 더해 더욱 풍성해졌다",
+        "Price": "9,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231214_70/1702513814114180iF_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "징거타워세트",
+        "Sub": "두툼한 가슴살필렛과 해시브라운, 슬라이스 치즈까지 KFC 시그니처 징거타워",
+        "Price": "9,100원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_211/1710808210400fICku_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "클래식징거통다리세트",
+        "Sub": "통 닭다리살에 스모키 머스타드 소스까지 더해져 깔끔하고 프리미엄한 클래식징거통다리",
+        "Price": "8,800원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231128_265/1701131432144QbYPr_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "징거세트",
+        "Sub": "치킨필렛의 풍부한 맛을 강조하기 위해 토마토를 제외하고 더욱 진해진 마요드레싱과 본토의 맛으로 돌아온 KFC 대표 징거",
+        "Price": "8,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231128_196/1701131434024hBdPh_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "트위스터세트",
+        "Sub": "고소한 블랙페퍼마요와 상큼한 토마토 KFC 치킨 텐더까지 더욱 맛있게 돌아온 트위스터",
+        "Price": "7,100원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_127/1710808212818dPPyT_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "불고기세트",
+        "Sub": "달콤한 불고기 소스와 부드러운 패티로 더 맛있어진 불고기",
+        "Price": "7,100원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231024_139/1698107403102Tj70k_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "블랙라벨폴인치즈",
+        "Sub": "부드러운 통닭다리살과 크림치즈, 고다치즈, 블루치즈의 완벽한 조화",
+        "Price": "8,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231130_290/1701304205977WsnXA_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "징거더블다운",
+        "Sub": "Only meat 치킨 통살로만 구성된 Real 치킨통살",
+        "Price": "7,800원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231130_148/17013042011249sPOi_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "켄터키통다리스파이시",
+        "Sub": "매콤한 켄터키통다리스파이시에, 해쉬브라운 소스를 듬뿍 더했다",
+        "Price": "7,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_266/1710808214550FDFE3_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "징거BLT",
+        "Sub": "KFC 베스트셀러 징거에 치즈와 베이컨을 더해 더욱 풍성해졌다",
+        "Price": "7,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231214_172/1702513824370yuu96_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "징거타워",
+        "Sub": "두툼한 가슴살필렛과 해시브라운, 슬라이스 치즈까지 KFC 시그니처 징거타워",
+        "Price": "6,600원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231214_166/1702513823784LByJu_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "클래식징거통다리",
+        "Sub": "통 닭다리살에 스모키 머스타드 소스까지 더해져 깔끔하고 프리미엄한 클래식징거통다리",
+        "Price": "6,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231128_181/1701131431708gK3YT_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "징거",
+        "Sub": "치킨필렛의 풍부한 맛을 강조하기 위해 토마토를 제외하고 더욱 진해진 마요드레싱과 본토의 맛으로 돌아온 KFC 대표 징거",
+        "Price": "5,800원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231128_183/1701131433694j1p17_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "트위스터",
+        "Sub": "고소한 블랙페퍼마요와 상큼한 토마토 KFC 치킨 텐더까지 더욱 맛있게 돌아온 트위스터",
+        "Price": "4,600원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_231/1710808202231C6k9b_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "불고기",
+        "Sub": "달콤한 불고기 소스와 부드러운 패티로 더 맛있어진 불고기",
+        "Price": "4,600원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_71/1710808220908gUI47_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "닭껍질튀김",
+        "Sub": "[특수부위 시리즈] 원조가 돌아왔다 KFC 닭껍질튀김",
+        "Price": "3,400원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_84/1710808221078513pi_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "텐더4조각",
+        "Sub": "담백한 치킨 안심살로 만들어 깔끔하게 먹을 수 있는 KFC 순살 치킨스낵",
+        "Price": "6,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_9/1710808215276Ko9Sx_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "텐더2조각",
+        "Sub": "담백한 치킨 안심살로 만들어 깔끔하게 먹을 수 있는 KFC 순살 치킨스낵",
+        "Price": "3,100원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_121/1710808217428ORTSH_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "너겟10조각",
+        "Sub": "순 닭고기살로 만들어 부드럽고 쫄깃한 치킨너겟",
+        "Price": "5,500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_237/17108082214082uqAW_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "너겟6조각",
+        "Sub": "순 닭고기살로 만들어 부드럽고 쫄깃한 치킨너겟",
+        "Price": "3,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_185/1710808207151TCgnh_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "너겟4조각",
+        "Sub": "순 닭고기살로 만들어 부드럽고 쫄깃한 치킨너겟",
+        "Price": "2,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_137/1710808203440ueo6B_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "프렌치프라이(L)",
+        "Sub": "바삭바삭한 식감과 짭짤한 맛의 중독성 있는 프렌치프라이",
+        "Price": "3,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231024_162/1698107407446l3PMq_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "프렌치프라이(M)",
+        "Sub": "바삭바삭한 식감과 짭짤한 맛의 중독성 있는 프렌치프라이",
+        "Price": "2,400원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231024_100/1698107407216VJEJO_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "버터 비스켓",
+        "Sub": "겉은 바삭하고 버터의 풍미가 가득 속은 더 부드러워진 KFC 버터 비스켓",
+        "Price": "2,600원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20231024_175/1698107401345ysnjD_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "에그타르트",
+        "Sub": "바삭한 패스트리 속에 부드러운 에그크림이 일품인 에그타르트",
+        "Price": "2,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_81/1710808210616TsPqP_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "롱치즈스틱",
+        "Sub": "고소한 치즈가 입안 가득 롱치즈스틱",
+        "Price": "2,100원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_7/1710808221745GMfjL_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "코울슬로",
+        "Sub": "양배추와 당근, 각종 신선한 야채를 상큼하게 버무린 샐러드",
+        "Price": "2,100원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_110/17108082219889rbqk_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "콘샐러드",
+        "Sub": "고소한 옥수수에 새콤한 드레싱, 각종 신선한 야채를 섞어 만든 콘샐러드",
+        "Price": "2,100원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_281/1710808222224Xxb97_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "스파이시마요소스",
+        "Sub": "매콤하고 부드럽게, 치킨과 함께 즐기면 더 맛있는 스파이시마요소스  (본 메뉴의 이미지의 상품구성은 매장별 상이 할 수 있습니다. )",
+        "Price": "500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230525_74/1684990651213E0kBP_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "그레이비소스",
+        "Sub": "고기 육즙의 고소함과 깊은 풍미 가득한 KFC 그레이비소스  (본 메뉴의 이미지의 상품구성은 매장별 상이 할 수 있습니다. )",
+        "Price": "500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230525_165/1684990651900m9wjQ_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "스위트칠리소스",
+        "Sub": "달큰한 풍미를 더한 스위트 칠리소스  (본 메뉴의 이미지의 상품구성은 매장별 상이 할 수 있습니다. )",
+        "Price": "500원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230525_101/1684990652512WrPqH_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "살사소스",
+        "Sub": "KFC 살사소스  (본 메뉴의 이미지의 상품구성은 매장별 상이 할 수 있습니다. )",
+        "Price": "300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230525_285/1684990653079DBP4T_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "딸기잼",
+        "Sub": "KFC 딸기잼  (본 메뉴의 이미지의 상품구성은 매장별 상이 할 수 있습니다. )",
+        "Price": "300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230525_8/1684990653452RK7vy_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "버터",
+        "Sub": "KFC 버터  (본 메뉴의 이미지의 상품구성은 매장별 상이 할 수 있습니다. )",
+        "Price": "300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230525_116/1684990654166jfxlh_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "페트콜라(500ml)",
+        "Sub": "속까지 시원해지는 청량음료의 대표",
+        "Price": "2,700원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_118/1710808204243RfAew_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "코카콜라(L)",
+        "Sub": "속까지 시원해지는 청량음료의 대표 콜라",
+        "Price": "2,600원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_49/1710808204522K9yo5_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "코크제로(L)",
+        "Sub": "칼로리 걱정은 이제 No 시원한 청량감은 그대로",
+        "Price": "2,600원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_251/1710808204841NpGz1_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "스프라이트(L)",
+        "Sub": "속까지 시원해지는 청량음료 스프라이트",
+        "Price": "2,600원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_200/1710808205183sg7Re_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "스프라이트제로(L)",
+        "Sub": "칼로리 걱정은 이제 No!! 속까지 시원해지는 청량감은 그대로!",
+        "Price": "2,600원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_160/1710808222466v8gO3_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "환타오렌지(L)",
+        "Sub": "속까지 시원해지는 청량음료 환타",
+        "Price": "2,600원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_240/1710808222746QEM7F_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "코카콜라(M)",
+        "Sub": "속까지 시원해지는 청량음료의 대표 콜라",
+        "Price": "2,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_212/1710808215711c0q9j_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "코크제로(M)",
+        "Sub": "칼로리 걱정은 이제 No 시원한 청량감은 그대로",
+        "Price": "2,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_298/1710808210807olVff_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "스프라이트(M)",
+        "Sub": "속까지 시원해지는 청량음료 스프라이트",
+        "Price": "2,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_118/1710808223020xRD2T_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "스프라이트제로(M)",
+        "Sub": "칼로리 걱정은 이제 No!! 속까지 시원해지는 청량감은 그대로!",
+        "Price": "2,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_31/1710808223303pzxxp_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "환타오렌지(M)",
+        "Sub": "속까지 시원해지는 청량음료 환타",
+        "Price": "2,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_41/1710808217624FfgRg_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "오렌지주스",
+        "Sub": "KFC 오렌지주스",
+        "Price": "2,100원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_248/1710808218156YX0hY_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "핫초코",
+        "Sub": "달콤한 초콜릿의 풍미와 부드러운 라떼의 발란스가 조화로운 핫초코",
+        "Price": "2,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_83/17108082184316511b_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "아이스초코",
+        "Sub": "달콤한 초콜릿의 풍미와 부드러운 라떼의 발란스가 조화로운 아이스초코",
+        "Price": "2,300원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_21/1710808218752jYKQD_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "ICE아메리카노(L)",
+        "Sub": "KFC만의 고품질 원두를 사용해 향과 맛이 뛰어난 차가운 아메리카노",
+        "Price": "2,400원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_275/1710808219044RpCyp_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "ICE아메리카노(M)",
+        "Sub": "KFC만의 고품질 원두를 사용해 향과 맛이 뛰어난 차가운 아메리카노",
+        "Price": "1,800원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_296/1710808223603jJ8Ee_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "아메리카노(M)",
+        "Sub": "KFC만의 고품질 원두를 사용해 향과 맛이 뛰어난 따뜻한 아메리카노",
+        "Price": "1,800원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_253/1710808223858zSzt8_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "캔콜라(245ml)",
+        "Sub": "속까지 시원해지는 청량음료의 대표",
+        "Price": "2,100원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20240319_105/17108082240790hs88_PNG/image.png?type=f220_220_60_sharpen"
+    },
+    {
+        "Menu": "생수",
+        "Sub": "KFC 생수",
+        "Price": "1,000원",
+        "MenuImage": "https://naverbooking-phinf.pstatic.net/20230525_189/1684990679356jyRoN_PNG/image.png?type=f220_220_60_sharpen"
+    }
+]
