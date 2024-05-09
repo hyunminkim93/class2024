@@ -205,7 +205,7 @@
     <main id="parallax__cont">
         <section id="section1" class="parallax__item">
             <span class="parallax__item__num">01</span>
-            <figure class="parallax__item__imgWrap">
+            <figure class="parallax__item__imgWrap img1">
                 <div class="parallax__item__img"></div>
             </figure>
         </section>
@@ -213,7 +213,7 @@
 
         <section id="section2" class="parallax__item">
             <span class="parallax__item__num">02</span>
-            <figure class="parallax__item__imgWrap">
+            <figure class="parallax__item__imgWrap img2">
                 <div class="parallax__item__img"></div>
             </figure>
         </section>
@@ -222,7 +222,7 @@
         <main id="horizontal">
             <section id="section3" class="parallax__item">
                 <span class="parallax__item__num">03</span>
-                <figure class="parallax__item__imgWrap">
+                <figure class="parallax__item__imgWrap img3">
                     <div class="parallax__item__img"></div>
                 </figure>
             </section>
@@ -263,7 +263,7 @@
 
         <section id="section8" class="parallax__item">
             <span class="parallax__item__num">08</span>
-            <figure class="parallax__item__imgWrap">
+            <figure class="parallax__item__imgWrap img8">
                 <div class="parallax__item__img"></div>
             </figure>
         </section>
@@ -271,7 +271,7 @@
 
         <section id="section9" class="parallax__item">
             <span class="parallax__item__num">09</span>
-            <figure class="parallax__item__imgWrap">
+            <figure class="parallax__item__imgWrap img9">
                 <div class="parallax__item__img"></div>
             </figure>
         </section>
@@ -298,6 +298,53 @@
                 invalidateOnRefresh: true,
             }
         });
+
+        gsap.to(".img1", {
+            x: 200,
+            duration: 3,
+            autoAlpha: 0,
+            scale: 20,
+            ease: "elastic",
+            scrollTrigger: {
+                trigger: ".img1",
+                start: "bottom center",
+                toggleActions: "play none reverse none",
+                markers: true,
+                id: "img1"
+            }
+        })
+        gsap.to(".img2", {
+            x: 200,
+            duration: 5,
+            rotation: 720,
+            borderRadius: 200,
+            scale: -2,
+            ease: "elastic",
+            scrollTrigger: {
+                trigger: ".img2",
+                start: "top center",
+                end: "top center",
+                toggleActions: "play none reverse none",
+                markers: true,
+                id: "img2"
+            }
+        })
+
+        gsap.to(".img3", {
+            y: 100,
+            x: 100,
+            rotation: 360,
+            duration: 5,
+            ease: "elastic",
+            scrollTrigger: {
+                trigger: ".img3",
+                containerAnimation: scrollTween,
+                start: "left center",
+                toggleActions: "play none reverse none",
+                markers: true,
+                id: "img3"
+            }
+        })
 
         gsap.to(".img4", {
             y: -200,
@@ -353,6 +400,39 @@
                 id: "img7"
             }
         });
+        gsap.to(".img8", {
+            y: 300,
+            duration: 3,
+            rotation: 900,
+            borderRadius: 300,
+            scale: 1,
+            ease: "elastic",
+            scrollTrigger: {
+                trigger: ".img8",
+                start: "top center",
+                end: "top center",
+                toggleActions: "play none reverse none",
+                markers: true,
+                id: "img8"
+            }
+        })
+        gsap.to(".img9", {
+            y: 100,
+            duration: 5,
+            rotation: 400,
+            borderRadius: 300,
+            scale: 3,
+            ease: "elastic",
+            scrollTrigger: {
+                trigger: ".img9",
+                start: "top center",
+                end: "top center",
+                toggleActions: "play none reverse none",
+                markers: true,
+                id: "img9"
+            }
+        })
+
     </script>
 </body>
 
