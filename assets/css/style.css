@@ -183,8 +183,6 @@ body {
 }
 
 /* layer__wrap */
-.layer__wrap {}
-
 .layer__inner {
     .layer {
         width: 80vw;
@@ -326,8 +324,6 @@ body {
                 }
             }
         }
-
-        .layer__footer {}
     }
 }
 
