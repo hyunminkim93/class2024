@@ -149,37 +149,43 @@ body {
 /* main__icons */
 .main__icons {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap; /* 아이콘을 줄바꿈 */
     margin-top: 30px;
-    justify-content: center;
-
-    .icon {
-        width: 65px;
-        height: 65px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
-        margin: 10px;
-        cursor: pointer;
-        text-align: center;
-
-        img {
-            width: 40px;
-
-        }
-
-        span {
-            display: block;
-            font-family: var(--fontN);
-            /* font-family: "nanumSquareNeo"; */
-            margin-top: 8px;
-            color: #020202;
-            font-size: 14px;
-            font-weight: bold;
-        }
-    }
+    justify-content: center; /* 중앙 정렬 */
+    gap: 10px; /* 아이콘 간의 간격 */
+    max-width: 1200px; /* 전체 너비 설정 */
+    margin-left: auto;
+    margin-right: auto; /* 중앙에 배치 */
 }
+
+.icon {
+    width: 65px;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.icon img {
+    width: 40px;
+}
+
+.icon span {
+    display: block;
+    font-family: var(--fontN); /* 폰트 설정 */
+    /* font-family: "nanumSquareNeo"; */
+    margin-top: 8px;
+    color: #020202;
+    font-size: 12px;
+    font-weight: 900;
+}
+
+
+
 
 /* layer__wrap */
 .layer__inner {
@@ -457,7 +463,7 @@ body {
     justify-content: center;
     align-items: center;
     min-width: 100vw;
-    min-height: 100vh;
+    min-height: 66vh;
 }
 
 h1,
